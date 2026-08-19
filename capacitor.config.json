@@ -1,0 +1,7 @@
+{
+  "appId": "com.adamlyn.diningtracker",
+  "appName": "Dining Tracker",
+  "webDir": "www",
+  "ios": { "contentInset": "never" },
+  "server": { "iosScheme": "capacitor" }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dining-tracker-static",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4322", "--directory", "/Users/adamlyn/Projects/dining-tracker"],
+      "port": 4322
+    }
+  ]
+}
