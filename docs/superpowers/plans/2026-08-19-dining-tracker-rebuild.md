@@ -293,18 +293,31 @@ function num(text) {
 export function parseNutritionHtml(html) {
   const $ = cheerio.load(html);
   const name = $("h2").first().text().trim();
-  const row = (label) => $(`*:contains("${label}")`).last().text();
+
+  // Each nutrition row is a <th> whose full text is "Label value unit", e.g.
+  // "Total Fat 14 g" or "Amount Per Serving 12.99 oz" — label and value aren't
+  // separate elements, so match by prefix and slice it off.
+  const rowValue = (label) => {
+    let found = null;
+    $("table.nutrition-facts-table th").each((_, th) => {
+      const text = $(th).text().replace(/\s+/g, " ").trim();
+      if (text.toLowerCase().startsWith(label.toLowerCase())) {
+        found = text.slice(label.length).trim();
+      }
+    });
+    return found;
+  };
 
   return {
     name,
-    servingSize: $("*:contains('Amount Per Serving')").first().next().text().trim() || null,
-    calories: num($("*:contains('Calories')").last().text()),
-    protein: num(row("Protein")),
-    carbs: num(row("Total Carbohydrate")),
-    fat: num(row("Total Fat")),
-    fiber: num(row("Dietary Fiber")),
-    sugar: num(row("Sugars")),
-    sodium: num(row("Sodium")),
+    servingSize: rowValue("Amount Per Serving") || null,
+    calories: num(rowValue("Calories")),
+    protein: num(rowValue("Protein")),
+    carbs: num(rowValue("Total Carbohydrate")),
+    fat: num(rowValue("Total Fat")),
+    fiber: num(rowValue("Dietary Fiber")),
+    sugar: num(rowValue("Sugars")),
+    sodium: num(rowValue("Sodium")),
   };
 }
 
@@ -574,15 +587,24 @@ function addLogEntry(recipeId, name, nutrition, quantity) {
   localStorage.setItem(todayKey(), JSON.stringify(log));
   return log;
 }
-
-if (typeof module !== "undefined") module.exports = { computeEntry, getTodayLog, addLogEntry, todayKey };
 ```
 
 - [ ] **Step 2: Self-check — `scripts/test-store.mjs`**
 
+`store.js` is a plain classic script (loaded via `<script src>`, no module system, no
+`export`). Load it into a `vm` context for the test instead of `import`-ing it, so the test
+runs the exact file the browser runs rather than a rewritten module version.
+
 ```js
 import assert from "node:assert";
-import { computeEntry } from "../store.js";
+import { readFileSync } from "node:fs";
+import vm from "node:vm";
+
+const src = readFileSync(new URL("../store.js", import.meta.url), "utf8");
+const sandbox = {};
+vm.createContext(sandbox);
+vm.runInContext(src, sandbox);
+const { computeEntry } = sandbox;
 
 const nutrition = { calories: 410, protein: 30, carbs: 43, fat: 14 };
 const doubled = computeEntry(nutrition, 2);
@@ -594,10 +616,6 @@ assert.strictEqual(half.calories, 205, `expected 205 cal at 0.5x, got ${half.cal
 
 console.log("ok: quantity scaling is linear and rounds to 1 decimal");
 ```
-
-Note: `store.js` uses `module.exports` for this Node-side test but runs in the browser as a
-plain script tag (no bundler in this stack) — the `typeof module !== "undefined"` guard makes
-both work off one file.
 
 - [ ] **Step 3: Run it**
 
