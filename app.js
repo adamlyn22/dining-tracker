@@ -50,7 +50,7 @@ function renderSummary(log) {
   fill.style.width = `${Math.min(100, (food / goal) * 100)}%`;
   fill.classList.toggle("over", left < 0);
 
-  const goals = macroGoals(goal);
+  const goals = macroGoals(goal, getMacroOverrides());
   for (const key of ["protein", "carbs", "fat"]) {
     const have = Math.round(t[key]);
     $(`m-${key}`).textContent = `${have} / ${goals[key]} g`;
@@ -67,7 +67,7 @@ function entryEl(entry) {
   del.textContent = "Delete";
 
   const body = document.createElement("div");
-  body.className = "entry-body";
+  body.className = "entry-body row";
   const qty = entry.quantity === 1 ? "" : `${entry.quantity} servings`;
   body.innerHTML =
     `<div><div class="entry-name"></div>${qty ? `<div class="entry-sub">${qty}</div>` : ""}</div>` +
@@ -113,9 +113,9 @@ function renderMeals(log) {
     const cals = Math.round(entries.reduce((s, e) => s + (e.calories || 0), 0));
 
     const section = document.createElement("div");
-    section.className = "meal";
+    section.className = "card";
     section.innerHTML =
-      `<div class="meal-head"><span class="meal-name">${meal}</span><span class="meal-cal">${cals}</span></div>`;
+      `<div class="card-head"><h2>${meal}</h2><span class="meal-cal">${cals}</span></div>`;
 
     if (!entries.length) {
       const empty = document.createElement("div");
@@ -173,10 +173,13 @@ function renderPicker(query = "") {
   items.forEach((i) => (byStation[i.station] ??= []).push(i));
 
   for (const [station, stationItems] of Object.entries(byStation)) {
-    const label = document.createElement("div");
+    const label = document.createElement("h2");
     label.className = "station";
     label.textContent = station;
     list.appendChild(label);
+
+    const card = document.createElement("div");
+    card.className = "card";
 
     stationItems.forEach((item) => {
       const info = NUTRITION[item.recipeId];
@@ -188,8 +191,10 @@ function renderPicker(query = "") {
       btn.querySelector(".pick-name").textContent = item.name;
       btn.querySelector(".pick-sub").textContent = info?.servingSize ?? "";
       btn.onclick = () => info && openQty(item, info);
-      list.appendChild(btn);
+      card.appendChild(btn);
     });
+
+    list.appendChild(card);
   }
 }
 
@@ -247,14 +252,26 @@ async function init() {
     render();
   };
 
+  const macroFields = () => ({
+    protein: Number($("goal-protein").value),
+    carbs: Number($("goal-carbs").value),
+    fat: Number($("goal-fat").value),
+  });
+  // What the sheet was opened showing — anything still equal to this is untouched.
+  let goalPrefill = {};
+
   $("open-settings").onclick = () => {
-    $("goal-input").value = getGoal();
+    const goal = getGoal();
+    goalPrefill = macroGoals(goal, getMacroOverrides());
+    $("goal-input").value = goal;
+    for (const key of ["protein", "carbs", "fat"]) $(`goal-${key}`).value = goalPrefill[key];
     $("goal-sheet").classList.remove("hidden");
   };
   $("goal-cancel").onclick = () => $("goal-sheet").classList.add("hidden");
   $("goal-save").onclick = () => {
     const v = Number($("goal-input").value);
     if (v >= 800 && v <= 6000) setGoal(v);
+    saveMacroOverrides(resolveMacroOverrides(goalPrefill, macroFields(), getMacroOverrides()));
     $("goal-sheet").classList.add("hidden");
     render();
   };

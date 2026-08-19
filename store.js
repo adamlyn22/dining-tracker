@@ -1,10 +1,10 @@
 const DEFAULT_GOAL = 2000;
 
-// ponytail: macro goals are derived from the calorie goal at a fixed split rather than
-// stored separately — one knob to set instead of four. Change the split here, or promote
-// these to real settings if the fixed ratio ever gets in the way.
+// Macro goals default to a fixed split of the calorie goal. Any one can be overridden in
+// grams; the ones you leave alone keep tracking the calorie goal instead of freezing.
 const MACRO_SPLIT = { protein: 0.30, carbs: 0.40, fat: 0.30 };
 const CAL_PER_G = { protein: 4, carbs: 4, fat: 9 };
+const MACROS = ["protein", "carbs", "fat"];
 
 function todayKey() {
   return `log-${new Date().toISOString().split("T")[0]}`;
@@ -18,12 +18,40 @@ function setGoal(value) {
   localStorage.setItem("goal", String(value));
 }
 
-function macroGoals(calorieGoal) {
-  return {
-    protein: Math.round((calorieGoal * MACRO_SPLIT.protein) / CAL_PER_G.protein),
-    carbs: Math.round((calorieGoal * MACRO_SPLIT.carbs) / CAL_PER_G.carbs),
-    fat: Math.round((calorieGoal * MACRO_SPLIT.fat) / CAL_PER_G.fat),
-  };
+function derivedMacroGoals(calorieGoal) {
+  const out = {};
+  for (const key of MACROS) {
+    out[key] = Math.round((calorieGoal * MACRO_SPLIT[key]) / CAL_PER_G[key]);
+  }
+  return out;
+}
+
+function macroGoals(calorieGoal, overrides = {}) {
+  const derived = derivedMacroGoals(calorieGoal);
+  for (const key of MACROS) {
+    if (overrides[key] > 0) derived[key] = overrides[key];
+  }
+  return derived;
+}
+
+function getMacroOverrides() {
+  return JSON.parse(localStorage.getItem("macroGoals") || "{}");
+}
+
+// An input left exactly as it was prefilled counts as untouched: it keeps whatever
+// override state it already had, so a macro you never edited goes on tracking the calorie
+// goal instead of freezing at the number that happened to be showing in the sheet.
+function resolveMacroOverrides(prefill, values, prior) {
+  const next = {};
+  for (const key of MACROS) {
+    const value = values[key] === prefill[key] ? prior[key] : values[key];
+    if (value > 0) next[key] = value;
+  }
+  return next;
+}
+
+function saveMacroOverrides(overrides) {
+  localStorage.setItem("macroGoals", JSON.stringify(overrides));
 }
 
 function computeEntry(nutrition, quantity) {

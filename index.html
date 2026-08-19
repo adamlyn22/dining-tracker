@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="theme-color" content="#08080d">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#ffffff">
   <title>Dining Tracker</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -15,7 +15,7 @@
   <section id="diary" class="screen active">
     <header class="bar">
       <span class="bar-title">Today</span>
-      <button id="open-settings" class="bar-btn" aria-label="Set calorie goal">
+      <button id="open-settings" class="bar-btn right" aria-label="Goals">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6">
           <circle cx="12" cy="12" r="3.2"/>
           <path d="M12 2.5v2.4M12 19.1v2.4M21.5 12h-2.4M4.9 12H2.5M18.7 5.3l-1.7 1.7M7 17l-1.7 1.7M18.7 18.7L17 17M7 7L5.3 5.3"/>
@@ -23,48 +23,51 @@
       </button>
     </header>
 
-    <div class="summary">
-      <div class="cal-row">
-        <div class="cal-cell"><span id="cal-goal" class="cal-num">0</span><span class="cal-label">Goal</span></div>
-        <span class="cal-op">&minus;</span>
-        <div class="cal-cell"><span id="cal-food" class="cal-num">0</span><span class="cal-label">Food</span></div>
-        <span class="cal-op">=</span>
-        <div class="cal-cell"><span id="cal-left" class="cal-num strong">0</span><span class="cal-label">Remaining</span></div>
+    <div class="scroll">
+      <div class="card hero">
+        <div class="cal-row">
+          <div class="cal-cell"><span id="cal-goal" class="cal-num">0</span><span class="cal-label">Goal</span></div>
+          <span class="cal-op">&minus;</span>
+          <div class="cal-cell"><span id="cal-food" class="cal-num">0</span><span class="cal-label">Food</span></div>
+          <span class="cal-op">=</span>
+          <div class="cal-cell"><span id="cal-left" class="cal-num strong">0</span><span class="cal-label">Remaining</span></div>
+        </div>
+        <div class="bar-track"><span id="cal-fill" class="bar-fill"></span></div>
       </div>
-      <div id="cal-bar" class="bar-track"><div id="cal-fill" class="bar-fill"></div></div>
-      <div class="macros">
+
+      <h2 class="station">Macros</h2>
+      <div class="card">
         <div class="macro">
           <div class="macro-head"><span>Protein</span><span id="m-protein" class="macro-val">0 / 0 g</span></div>
-          <div class="bar-track sm"><div id="f-protein" class="bar-fill protein"></div></div>
+          <div class="bar-track sm"><span id="f-protein" class="bar-fill protein"></span></div>
         </div>
         <div class="macro">
           <div class="macro-head"><span>Carbs</span><span id="m-carbs" class="macro-val">0 / 0 g</span></div>
-          <div class="bar-track sm"><div id="f-carbs" class="bar-fill carbs"></div></div>
+          <div class="bar-track sm"><span id="f-carbs" class="bar-fill carbs"></span></div>
         </div>
         <div class="macro">
           <div class="macro-head"><span>Fat</span><span id="m-fat" class="macro-val">0 / 0 g</span></div>
-          <div class="bar-track sm"><div id="f-fat" class="bar-fill fat"></div></div>
+          <div class="bar-track sm"><span id="f-fat" class="bar-fill fat"></span></div>
         </div>
       </div>
-    </div>
 
-    <div id="meals"></div>
+      <div id="meals"></div>
+    </div>
   </section>
 
   <section id="picker" class="screen">
     <header class="bar">
-      <button id="picker-back" class="bar-btn" aria-label="Back">
+      <button id="picker-back" class="bar-btn left" aria-label="Back">
         <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8">
           <path d="M15 5l-7 7 7 7"/>
         </svg>
       </button>
       <span id="picker-title" class="bar-title"></span>
-      <span class="bar-btn"></span>
     </header>
     <div class="search-wrap">
       <input id="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" spellcheck="false">
     </div>
-    <div id="picker-list"></div>
+    <div id="picker-list" class="scroll"></div>
   </section>
 
   <div id="qty-sheet" class="sheet hidden">
@@ -84,8 +87,23 @@
 
   <div id="goal-sheet" class="sheet hidden">
     <div class="sheet-card">
-      <div class="sheet-title">Daily calorie goal</div>
-      <input id="goal-input" type="number" inputmode="numeric" min="800" max="6000" step="10">
+      <div class="sheet-title">Daily goals</div>
+      <label for="goal-input">Calories</label>
+      <input id="goal-input" class="goal-input" type="number" inputmode="numeric" min="800" max="6000" step="10">
+      <div class="grid3">
+        <div>
+          <label for="goal-protein">Protein g</label>
+          <input id="goal-protein" class="goal-input" type="number" inputmode="numeric" min="0" max="500" step="5">
+        </div>
+        <div>
+          <label for="goal-carbs">Carbs g</label>
+          <input id="goal-carbs" class="goal-input" type="number" inputmode="numeric" min="0" max="800" step="5">
+        </div>
+        <div>
+          <label for="goal-fat">Fat g</label>
+          <input id="goal-fat" class="goal-input" type="number" inputmode="numeric" min="0" max="300" step="5">
+        </div>
+      </div>
       <button id="goal-save" class="primary">Save</button>
       <button id="goal-cancel" class="ghost">Cancel</button>
     </div>
