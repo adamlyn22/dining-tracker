@@ -1,4 +1,4 @@
-const REPO_RAW = "https://raw.githubusercontent.com/OWNER/dining-tracker/main"; // filled in once the repo exists
+const REPO_RAW = "https://raw.githubusercontent.com/adamlyn22/dining-tracker/main";
 // Local dev server serves data/ directly; only the Capacitor-wrapped app needs the GitHub fetch.
 const DATA_BASE = location.hostname === "localhost" ? "." : REPO_RAW;
 
