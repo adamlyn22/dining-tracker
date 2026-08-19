@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#08080d">
+  <title>Dining Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="app">
+    <header id="tabs">
+      <button class="tab active" data-view="menu">Menu</button>
+      <button class="tab" data-view="log">Log</button>
+    </header>
+    <section id="menu-view" class="view active">
+      <div id="menu-list"></div>
+    </section>
+    <section id="log-view" class="view">
+      <div id="log-list"></div>
+    </section>
+    <div id="qty-sheet" class="sheet hidden">
+      <div class="sheet-card">
+        <div id="qty-item-name"></div>
+        <div class="qty-stepper">
+          <button id="qty-minus">-</button>
+          <span id="qty-value">1</span>
+          <button id="qty-plus">+</button>
+        </div>
+        <button id="qty-confirm">Log it</button>
+      </div>
+    </div>
+  </main>
+  <script src="store.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
