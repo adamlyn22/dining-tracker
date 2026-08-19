@@ -1,6 +1,9 @@
 const REPO_RAW = "https://raw.githubusercontent.com/adamlyn22/dining-tracker/main";
-// Local dev server serves data/ directly; only the Capacitor-wrapped app needs the GitHub fetch.
-const DATA_BASE = location.hostname === "localhost" ? "." : REPO_RAW;
+// A web server (dev or deployed) serves data/ out of the repo alongside the app, so it can
+// fetch relative. The Capacitor build can't — data/ isn't in the bundle — so it goes to
+// GitHub. Discriminate on protocol, not hostname: Capacitor's iosScheme serves the app from
+// capacitor://localhost, so a hostname check reads as "dev" on the phone and finds nothing.
+const DATA_BASE = location.protocol.startsWith("http") ? "." : REPO_RAW;
 
 const MEALS = ["breakfast", "lunch", "dinner"];
 const $ = (id) => document.getElementById(id);
