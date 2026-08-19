@@ -1,0 +1,22 @@
+{
+  "name": "dining-tracker",
+  "version": "1.0.0",
+  "description": "Georgetown dining calorie/macro tracker. Scrapes hoyaeats.com's own published nutrition data, no estimation. Capacitor for iPhone.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "test": "node scripts/test-scrape.mjs && node scripts/test-store.mjs",
+    "sync": "npm test && cp index.html app.js store.js style.css www/ && npx cap sync ios",
+    "open": "npx cap open ios"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "@capacitor/core": "^8.5.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/ios": "^8.5.0"
+  }
+}
