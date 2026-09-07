@@ -461,6 +461,17 @@
     "sugar": 25,
     "sodium": 260
   },
+  "186": {
+    "name": "VEGAN JAMBALAYA",
+    "servingSize": "1 each",
+    "calories": 210,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 3.5,
+    "fiber": 6,
+    "sugar": 7,
+    "sodium": 260
+  },
   "189": {
     "name": "Rice Pilaf",
     "servingSize": "1 Serving",
@@ -472,6 +483,17 @@
     "sugar": 2,
     "sodium": 330
   },
+  "201": {
+    "name": "Salted Caramel Mini Cupcake",
+    "servingSize": "1 each",
+    "calories": 160,
+    "protein": 1,
+    "carbs": 27,
+    "fat": 5,
+    "fiber": 1,
+    "sugar": 19,
+    "sodium": 180
+  },
   "206": {
     "name": "Chicken Pot Pie",
     "servingSize": "1 each",
@@ -482,6 +504,17 @@
     "fiber": 2,
     "sugar": 6,
     "sodium": 750
+  },
+  "209": {
+    "name": "Bombay Aloo",
+    "servingSize": "0.5 cup",
+    "calories": 140,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 7,
+    "fiber": 4,
+    "sugar": 3,
+    "sodium": 200
   },
   "214": {
     "name": "Steamed Green Peas",
@@ -1132,6 +1165,17 @@
     "sugar": 4,
     "sodium": 6830
   },
+  "448": {
+    "name": "Diced Chicken",
+    "servingSize": "1 oz",
+    "calories": 60,
+    "protein": 5,
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 20
+  },
   "452": {
     "name": "Sliced Mushroom",
     "servingSize": "¼ cup",
@@ -1450,6 +1494,17 @@
     "fiber": 0.88,
     "sugar": 2,
     "sodium": 60
+  },
+  "581": {
+    "name": "Roasted Red Potatoes",
+    "servingSize": "½ cup",
+    "calories": 110,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 5
   },
   "585": {
     "name": "Steamed Garden Vegetables",
@@ -1990,6 +2045,17 @@
     "sugar": 3,
     "sodium": 130
   },
+  "890": {
+    "name": "Barbecue Sauce - Sweet Baby Ray's",
+    "servingSize": "1 each",
+    "calories": 2240,
+    "protein": 0,
+    "carbs": 575,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 543,
+    "sodium": 9260
+  },
   "891": {
     "name": "Seasoned Green Beans",
     "servingSize": "½ cup",
@@ -2253,6 +2319,17 @@
     "fiber": 2,
     "sugar": 1,
     "sodium": 260
+  },
+  "1016": {
+    "name": "Gnocchi Alfredo",
+    "servingSize": "1 each",
+    "calories": 430,
+    "protein": 10,
+    "carbs": 58,
+    "fat": 18,
+    "fiber": 3,
+    "sugar": 9,
+    "sodium": 1700
   },
   "1020": {
     "name": "Korean BBQ Sauce",
@@ -2595,6 +2672,17 @@
     "sugar": 2,
     "sodium": 640
   },
+  "1141": {
+    "name": "Chicken Shawarma",
+    "servingSize": "½ cup",
+    "calories": 170,
+    "protein": 16,
+    "carbs": 1,
+    "fat": 12,
+    "fiber": 0.66,
+    "sugar": 0,
+    "sodium": 500
+  },
   "1144": {
     "name": "Quinoa & Edamame Salad",
     "servingSize": "0.5 cup",
@@ -2793,6 +2881,17 @@
     "sugar": 1497,
     "sodium": 9550
   },
+  "1295": {
+    "name": "Mashed Yukon Gold Potatoes",
+    "servingSize": "½ cup",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 3,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 70
+  },
   "1299": {
     "name": "Bananas Foster French Toast",
     "servingSize": "1 each",
@@ -2825,6 +2924,17 @@
     "fiber": 1,
     "sugar": 3,
     "sodium": 500
+  },
+  "1317": {
+    "name": "Roasted Root Vegetables",
+    "servingSize": "0.5 cup",
+    "calories": 70,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 2.5,
+    "fiber": 4,
+    "sugar": 4,
+    "sodium": 200
   },
   "1335": {
     "name": "Moroccan-Style Roasted Vegetables",
@@ -2891,6 +3001,17 @@
     "fiber": 3,
     "sugar": 3,
     "sodium": 70
+  },
+  "1449": {
+    "name": "Roasted Pork Loin M2677",
+    "servingSize": "1 serving",
+    "calories": 180,
+    "protein": 27,
+    "carbs": 0,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 210
   },
   "1468": {
     "name": "Maple Apple Cobbler",
@@ -3188,6 +3309,17 @@
     "fiber": 2,
     "sugar": 4,
     "sodium": 75
+  },
+  "1805": {
+    "name": "Broccoli with Tomatoes",
+    "servingSize": "½ cup",
+    "calories": 90,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 5,
+    "fiber": 1,
+    "sugar": 5,
+    "sodium": 300
   },
   "1808": {
     "name": "Roasted Carrot",
@@ -4410,6 +4542,17 @@
     "sugar": 4,
     "sodium": 610
   },
+  "3086": {
+    "name": "Chicken & Shrimp Creole",
+    "servingSize": "0.5 cup",
+    "calories": 100,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 5,
+    "fiber": 0.87,
+    "sugar": 1,
+    "sodium": 150
+  },
   "3094": {
     "name": "Creamy Vegan Mac & Cheese",
     "servingSize": "½ cup",
@@ -4597,6 +4740,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "3270": {
+    "name": "Asian Grilled Chicken Sandwich",
+    "servingSize": "1 each",
+    "calories": 470,
+    "protein": 40,
+    "carbs": 39,
+    "fat": 16,
+    "fiber": 2,
+    "sugar": 10,
+    "sodium": 810
+  },
   "3284": {
     "name": "Black Forest Cupcake",
     "servingSize": "122 each",
@@ -4607,6 +4761,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 0
+  },
+  "3306": {
+    "name": "Salisbury Steak & Mushroom Sauce",
+    "servingSize": "1 Serving",
+    "calories": 360,
+    "protein": 20,
+    "carbs": 12,
+    "fat": 24,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 540
   },
   "3386": {
     "name": "Pan-Seared Ancho Lime Cod w/Sweet Potato Hash",
@@ -5432,6 +5597,17 @@
     "fiber": 2,
     "sugar": 2,
     "sodium": 75
+  },
+  "5255": {
+    "name": "Garlic Broccoli",
+    "servingSize": "½ cup",
+    "calories": 40,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 2.5,
+    "fiber": 1,
+    "sugar": 0.95,
+    "sodium": 90
   },
   "5259": {
     "name": "Chicken Andouille Jambalaya",
@@ -6720,6 +6896,17 @@
     "sugar": 2,
     "sodium": 65
   },
+  "5970": {
+    "name": "McCormick Buffalo Sauce",
+    "servingSize": "2 Tbsp",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 790
+  },
   "5974": {
     "name": "Beef & Mushroom Pot Roast",
     "servingSize": "1 Serving",
@@ -6752,6 +6939,17 @@
     "fiber": 0,
     "sugar": 3,
     "sodium": 260
+  },
+  "5985": {
+    "name": "Sweet Chili Pork",
+    "servingSize": "½ cup",
+    "calories": 290,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 17,
+    "fiber": 0,
+    "sugar": 6,
+    "sodium": 440
   },
   "5986": {
     "name": "Smothered Chicken",
@@ -6984,6 +7182,17 @@
     "sugar": 3,
     "sodium": 780
   },
+  "6124": {
+    "name": "Grilled Lemon-Herb Tilapia",
+    "servingSize": "1 Serving",
+    "calories": 160,
+    "protein": 17,
+    "carbs": 1,
+    "fat": 10,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 95
+  },
   "6135": {
     "name": "Fried Pork Chop",
     "servingSize": "1 each",
@@ -7126,6 +7335,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 360
+  },
+  "6259": {
+    "name": "Grilled Reuben",
+    "servingSize": "1 each",
+    "calories": 520,
+    "protein": 22,
+    "carbs": 48,
+    "fat": 26,
+    "fiber": 5,
+    "sugar": 9,
+    "sodium": 1700
   },
   "6273": {
     "name": "Hoppin' John",
@@ -9173,6 +9393,28 @@
     "sugar": 0,
     "sodium": 510
   },
+  "7876": {
+    "name": "Bolognese Sauce",
+    "servingSize": "2 floz",
+    "calories": 120,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 8,
+    "fiber": 0.57,
+    "sugar": 1,
+    "sodium": 100
+  },
+  "7877": {
+    "name": "Plant-Based Chicken Noodle Bowl",
+    "servingSize": "0.75 cup",
+    "calories": 190,
+    "protein": 10,
+    "carbs": 31,
+    "fat": 4,
+    "fiber": 3,
+    "sugar": 11,
+    "sodium": 530
+  },
   "7878": {
     "name": "Feta Cheese Crumbles",
     "servingSize": "1 oz",
@@ -9183,6 +9425,17 @@
     "fiber": 0,
     "sugar": 0.99,
     "sodium": 310
+  },
+  "7880": {
+    "name": "Baby Bok Choy",
+    "servingSize": "3 each",
+    "calories": 0,
+    "protein": 2,
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 70
   },
   "7882": {
     "name": "Mediterranean Beef Bowl",
@@ -9195,6 +9448,17 @@
     "sugar": 5,
     "sodium": 390
   },
+  "7883": {
+    "name": "Cream Cheese Iced Carrot Cake",
+    "servingSize": "1 serving",
+    "calories": 340,
+    "protein": 2,
+    "carbs": 46,
+    "fat": 17,
+    "fiber": 1,
+    "sugar": 35,
+    "sodium": 95
+  },
   "7888": {
     "name": "Beef Vindaloo",
     "servingSize": "0.5 cup",
@@ -9202,6 +9466,17 @@
     "protein": 21,
     "carbs": 9,
     "fat": 7,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 190
+  },
+  "7889": {
+    "name": "Chicken Vindaloo",
+    "servingSize": "0.5 cup",
+    "calories": 130,
+    "protein": 14,
+    "carbs": 8,
+    "fat": 5,
     "fiber": 2,
     "sugar": 2,
     "sodium": 190
@@ -10548,6 +10823,17 @@
     "sugar": 0,
     "sodium": 350
   },
+  "8134": {
+    "name": "Smothered Chicken",
+    "servingSize": "1 serving",
+    "calories": 160,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 220
+  },
   "8140": {
     "name": "Chicken Apple Sausage",
     "servingSize": "1 each",
@@ -10657,6 +10943,17 @@
     "fiber": 0,
     "sugar": 2,
     "sodium": 240
+  },
+  "8155": {
+    "name": "Mushroom & Onion Pizza",
+    "servingSize": "1 serving",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 10,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 580
   },
   "8156": {
     "name": "Cinnamon Raisin Swirl Bagel",
