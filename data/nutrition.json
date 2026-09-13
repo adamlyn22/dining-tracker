@@ -681,6 +681,17 @@
     "sugar": 18,
     "sodium": 330
   },
+  "247": {
+    "name": "General Tso's Tofu",
+    "servingSize": "3.633 oz",
+    "calories": 90,
+    "protein": 4,
+    "carbs": 14,
+    "fat": 2,
+    "fiber": 0.97,
+    "sugar": 11,
+    "sodium": 280
+  },
   "256": {
     "name": "Garlic Broccoli",
     "servingSize": "3 oz",
@@ -2925,6 +2936,17 @@
     "sugar": 28,
     "sodium": 240
   },
+  "1124": {
+    "name": "Apple Crumb Cake",
+    "servingSize": "1 Slice",
+    "calories": 300,
+    "protein": 3,
+    "carbs": 53,
+    "fat": 8,
+    "fiber": 0,
+    "sugar": 30,
+    "sodium": 350
+  },
   "1127": {
     "name": "Braised Apple Pork Chops",
     "servingSize": "1 serving",
@@ -3376,6 +3398,17 @@
     "sugar": 3,
     "sodium": 40
   },
+  "1406": {
+    "name": "Shrimp & Grits",
+    "servingSize": "1 serving",
+    "calories": 250,
+    "protein": 16,
+    "carbs": 21,
+    "fat": 12,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 460
+  },
   "1436": {
     "name": "Brussels Sprouts and Carrots",
     "servingSize": "½ cup",
@@ -3826,6 +3859,17 @@
     "fiber": 0.68,
     "sugar": 1,
     "sodium": 630
+  },
+  "1858": {
+    "name": "Chicken Fried Beef Steak & Gravy",
+    "servingSize": "1 serving",
+    "calories": 270,
+    "protein": 19,
+    "carbs": 27,
+    "fat": 9,
+    "fiber": 1,
+    "sugar": 3,
+    "sodium": 420
   },
   "1882": {
     "name": "Shredded Hash Brown Potatoes",
@@ -5301,6 +5345,17 @@
     "sugar": 79,
     "sodium": 6610
   },
+  "3166": {
+    "name": "Salted Caramel Blondie - catering",
+    "servingSize": "1 each",
+    "calories": 300,
+    "protein": 4,
+    "carbs": 47,
+    "fat": 11,
+    "fiber": 0.92,
+    "sugar": 27,
+    "sodium": 370
+  },
   "3169": {
     "name": "Bacon Maple Cupcake",
     "servingSize": "1 each",
@@ -6103,6 +6158,17 @@
     "fiber": 3,
     "sugar": 4,
     "sodium": 410
+  },
+  "4772": {
+    "name": "Roasted Broccoli",
+    "servingSize": "½ cup",
+    "calories": 60,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 6,
+    "fiber": 0.53,
+    "sugar": 0,
+    "sodium": 80
   },
   "4791": {
     "name": "GRILLED CHICKEN KABOB",
@@ -8711,6 +8777,17 @@
     "sugar": 4,
     "sodium": 160
   },
+  "6656": {
+    "name": "Chilled Broccoli Florets",
+    "servingSize": "1 Serving",
+    "calories": 35,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 0,
+    "fiber": 4,
+    "sugar": 1,
+    "sodium": 320
+  },
   "6659": {
     "name": "Avocado Cilantro Crema",
     "servingSize": "1 Serving",
@@ -8743,6 +8820,17 @@
     "fiber": 2,
     "sugar": 0,
     "sodium": 380
+  },
+  "6667": {
+    "name": "Oven-Roasted Herbed Turkey Breast",
+    "servingSize": "1 Serving",
+    "calories": 140,
+    "protein": 21,
+    "carbs": 1,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 620
   },
   "6676": {
     "name": "Cilantro Lime Rice",
@@ -9877,6 +9965,17 @@
     "sugar": 0,
     "sodium": 65
   },
+  "7643": {
+    "name": "Hashbrown Potatoes",
+    "servingSize": "1 each",
+    "calories": 110,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 6,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 280
+  },
   "7664": {
     "name": "Pineapple Jalapeno Chicken",
     "servingSize": "1 serving",
@@ -10448,6 +10547,17 @@
     "fiber": 2,
     "sugar": 4,
     "sodium": 85
+  },
+  "7824": {
+    "name": "Vegetable Spring Roll",
+    "servingSize": "3 each",
+    "calories": 470,
+    "protein": 6,
+    "carbs": 68,
+    "fat": 19,
+    "fiber": 3,
+    "sugar": 16,
+    "sodium": 1030
   },
   "7827": {
     "name": "Fat-Free French Dressing",
@@ -11141,6 +11251,28 @@
     "fiber": 0.57,
     "sugar": 1,
     "sodium": 0
+  },
+  "7964": {
+    "name": "Broccoli Rabe with Tomatoes",
+    "servingSize": "0.5 cup",
+    "calories": 80,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 5,
+    "fiber": 2,
+    "sugar": 4,
+    "sodium": 260
+  },
+  "7965": {
+    "name": "Steakhouse Angus Burger",
+    "servingSize": "1 each",
+    "calories": 730,
+    "protein": 33,
+    "carbs": 36,
+    "fat": 49,
+    "fiber": 2,
+    "sugar": 7,
+    "sodium": 980
   },
   "7966": {
     "name": "Twice Stuffed Baked Potato Soup 2",
@@ -12285,6 +12417,17 @@
     "fiber": 0,
     "sugar": 3,
     "sodium": 260
+  },
+  "8142": {
+    "name": "Vegetable Cream Cheese",
+    "servingSize": "1 floz",
+    "calories": 160,
+    "protein": 3,
+    "carbs": 3,
+    "fat": 14,
+    "fiber": 0.55,
+    "sugar": 2,
+    "sodium": 180
   },
   "8143": {
     "name": "Cinnamon Sugar Cream Cheese",
