@@ -8458,6 +8458,17 @@
     "sugar": 0.9,
     "sodium": 140
   },
+  "6061": {
+    "name": "Cavatappi",
+    "servingSize": "8 oz",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 73,
+    "fat": 1.5,
+    "fiber": 3,
+    "sugar": 3,
+    "sodium": 25
+  },
   "6076": {
     "name": "Breakfast French Toast Sticks",
     "servingSize": "1 Serving",
@@ -8897,6 +8908,17 @@
     "fiber": 0.69,
     "sugar": 2,
     "sodium": 70
+  },
+  "6465": {
+    "name": "Balsamic Vinaigrette",
+    "servingSize": "1 Serving",
+    "calories": 140,
+    "protein": 0,
+    "carbs": 2,
+    "fat": 15,
+    "fiber": 0,
+    "sugar": 1,
+    "sodium": 60
   },
   "6554": {
     "name": "Buttermilk Fried Chicken",
@@ -9689,6 +9711,17 @@
     "fiber": 0,
     "sugar": 0.52,
     "sodium": 220
+  },
+  "7107": {
+    "name": "Pineapple",
+    "servingSize": "3 oz",
+    "calories": 45,
+    "protein": 0,
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 2,
+    "sugar": 8,
+    "sodium": 0
   },
   "7120": {
     "name": "Grilled Lemon Pepper Wings",
@@ -12319,6 +12352,17 @@
     "sugar": 19,
     "sodium": 50
   },
+  "8051": {
+    "name": "Sauté Peppers and Onions GU",
+    "servingSize": "1 serving",
+    "calories": 15,
+    "protein": 0,
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 0.89,
+    "sugar": 2,
+    "sodium": 0
+  },
   "8052": {
     "name": "Pasta Noodles",
     "servingSize": "2 floz",
@@ -13132,6 +13176,17 @@
     "fiber": 3,
     "sugar": 16,
     "sodium": 135
+  },
+  "8162": {
+    "name": "Chocolate Chunk Cookie",
+    "servingSize": "1 each",
+    "calories": 190,
+    "protein": 2,
+    "carbs": 0,
+    "fat": 8,
+    "fiber": 1,
+    "sugar": 16,
+    "sodium": 100
   },
   "8166": {
     "name": "Roasted Veggies",
