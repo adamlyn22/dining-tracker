@@ -1,0 +1,2784 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "name": "Scrambled Eggs",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6774"
+    },
+    {
+      "name": "Grilled Ham Steak",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6276"
+    },
+    {
+      "name": "O'Brien Potatoes",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "17"
+    },
+    {
+      "name": "Banana Buttermilk Pancake",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6613"
+    },
+    {
+      "name": "Southern Biscuit",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2361"
+    },
+    {
+      "name": "Sausage Gravy",
+      "station": "Comfort",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "7418"
+    },
+    {
+      "name": "Golden Waffles",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8153"
+    },
+    {
+      "name": "Plain Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8158"
+    },
+    {
+      "name": "Everything Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8157"
+    },
+    {
+      "name": "Cinnamon Raisin Swirl Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8156"
+    },
+    {
+      "name": "Plain Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8154"
+    },
+    {
+      "name": "Vegetable Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8142"
+    },
+    {
+      "name": "Whipped Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3138"
+    },
+    {
+      "name": "Whipped Honey Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3137"
+    },
+    {
+      "name": "Egg Whites",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5608"
+    },
+    {
+      "name": "Breakfast Blend Eggs",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6947"
+    },
+    {
+      "name": "Turkey Sausage Patty",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5496"
+    },
+    {
+      "name": "American Cheese",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "415"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "179"
+    },
+    {
+      "name": "Diced Yellow Onions",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "372"
+    },
+    {
+      "name": "Sliced Mushroom",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "452"
+    },
+    {
+      "name": "Sliced Mixed Bell Peppers",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "1796"
+    },
+    {
+      "name": "Bacon Pieces",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "7037"
+    },
+    {
+      "name": "Shredded Mozzarella",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "587"
+    },
+    {
+      "name": "Fresh Spinach",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "7048"
+    },
+    {
+      "name": "Pork Sausage Patty",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5223"
+    },
+    {
+      "name": "English Muffin",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6599"
+    },
+    {
+      "name": "Hard Boiled Egg",
+      "station": "Grill",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "648"
+    },
+    {
+      "name": "Whole Grain Blueberry Mini Muffin",
+      "station": "Sweets",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "8019"
+    },
+    {
+      "name": "Assorted Danish",
+      "station": "Sweets",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6012"
+    },
+    {
+      "name": "Apple Cinnamon Mini Muffin",
+      "station": "Sweets",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "312"
+    },
+    {
+      "name": "Double Chocolate Chip Mini Muffin",
+      "station": "Sweets",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "264"
+    },
+    {
+      "name": "Powdered Sugar Donut Bites",
+      "station": "Sweets",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "874"
+    },
+    {
+      "name": "Fried Just Egg",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5938"
+    },
+    {
+      "name": "Beyond Sausage®",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3804"
+    },
+    {
+      "name": "Fresh Fruit Salad",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "297"
+    },
+    {
+      "name": "Seasoned Home Fries",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "7978"
+    },
+    {
+      "name": "Pancakes",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3877"
+    },
+    {
+      "name": "Grilled Ham Steak",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "6276"
+    },
+    {
+      "name": "Applesauce",
+      "station": "True Balance",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5301"
+    },
+    {
+      "name": "Yogurt Strawberry",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "351"
+    },
+    {
+      "name": "Nonfat Vanilla Yogurt",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "352"
+    },
+    {
+      "name": "Nonfat Greek Yogurt",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "5303"
+    },
+    {
+      "name": "Grits",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "593"
+    },
+    {
+      "name": "Cantaloupe",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "341"
+    },
+    {
+      "name": "Honeydew Melon",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "347"
+    },
+    {
+      "name": "Red Grapes",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "157"
+    },
+    {
+      "name": "Pineapple Slices",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "7522"
+    },
+    {
+      "name": "Dried Cranberries",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "1534"
+    },
+    {
+      "name": "Old Fashioned Oatmeal",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "1640"
+    },
+    {
+      "name": "Watermelon",
+      "station": "Produce Market",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "160"
+    },
+    {
+      "name": "Coke",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2013"
+    },
+    {
+      "name": "Pibb XTRA Soda",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3713"
+    },
+    {
+      "name": "Barq's Root Beer",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2011"
+    },
+    {
+      "name": "Ginger Ale",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2016"
+    },
+    {
+      "name": "Powerade Mountain Blast",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2008"
+    },
+    {
+      "name": "Sprite",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2014"
+    },
+    {
+      "name": "Cherry Coke",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2012"
+    },
+    {
+      "name": "Diet Coke",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2015"
+    },
+    {
+      "name": "Coke Zero",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "2009"
+    },
+    {
+      "name": "Minute Maid Lemonade",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3715"
+    },
+    {
+      "name": "Mello Yello",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3714"
+    },
+    {
+      "name": "Vitamin WaterXXX:Acai-Blueberry-Pomegranate",
+      "station": "beverages",
+      "mealPeriod": "breakfast",
+      "locationId": "leos",
+      "recipeId": "3735"
+    },
+    {
+      "name": "Golden Waffles",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8153"
+    },
+    {
+      "name": "Plain Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8158"
+    },
+    {
+      "name": "Everything Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8157"
+    },
+    {
+      "name": "Cinnamon Raisin Swirl Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8156"
+    },
+    {
+      "name": "Plain Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8154"
+    },
+    {
+      "name": "Vegetable Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "8142"
+    },
+    {
+      "name": "Whipped Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3138"
+    },
+    {
+      "name": "Whipped Honey Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3137"
+    },
+    {
+      "name": "Classic Cheese Pizza",
+      "station": "Oven",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "427"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "station": "Oven",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "44"
+    },
+    {
+      "name": "Spinach & Ricotta Pizza",
+      "station": "Oven",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "7914"
+    },
+    {
+      "name": "Coke",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2013"
+    },
+    {
+      "name": "Pibb XTRA Soda",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3713"
+    },
+    {
+      "name": "Barq's Root Beer",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2011"
+    },
+    {
+      "name": "Ginger Ale",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2016"
+    },
+    {
+      "name": "Powerade Mountain Blast",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2008"
+    },
+    {
+      "name": "Sprite",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2014"
+    },
+    {
+      "name": "Cherry Coke",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2012"
+    },
+    {
+      "name": "Diet Coke",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2015"
+    },
+    {
+      "name": "Coke Zero",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "2009"
+    },
+    {
+      "name": "Minute Maid Lemonade",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3715"
+    },
+    {
+      "name": "Mello Yello",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3714"
+    },
+    {
+      "name": "Vitamin WaterXXX:Acai-Blueberry-Pomegranate",
+      "station": "beverages",
+      "mealPeriod": "other",
+      "locationId": "leos",
+      "recipeId": "3735"
+    },
+    {
+      "name": "Mojo Pork & Plantains Plate",
+      "station": "Comfort",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5577"
+    },
+    {
+      "name": "Scrambled Eggs",
+      "station": "Comfort",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6774"
+    },
+    {
+      "name": "Grilled Ham Steak",
+      "station": "Comfort",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6276"
+    },
+    {
+      "name": "Golden Waffles",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8153"
+    },
+    {
+      "name": "Plain Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8158"
+    },
+    {
+      "name": "Everything Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8157"
+    },
+    {
+      "name": "Cinnamon Raisin Swirl Bagel",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8156"
+    },
+    {
+      "name": "Plain Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8154"
+    },
+    {
+      "name": "Vegetable Cream Cheese",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8142"
+    },
+    {
+      "name": "Whipped Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3138"
+    },
+    {
+      "name": "Whipped Honey Butter",
+      "station": "Waffles/Bagel",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3137"
+    },
+    {
+      "name": "Lamb Meatballs",
+      "station": "Halal",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3923"
+    },
+    {
+      "name": "Confetti Rice",
+      "station": "Halal",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5309"
+    },
+    {
+      "name": "Tikka Chaat Salad",
+      "station": "Halal",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3709"
+    },
+    {
+      "name": "Tomato Cucumber Salad",
+      "station": "Halal",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6369"
+    },
+    {
+      "name": "Hummus",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "480"
+    },
+    {
+      "name": "Tofu",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Diced Red Onion",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5843"
+    },
+    {
+      "name": "Diced Cucumber",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3675"
+    },
+    {
+      "name": "Pita Wedges",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6048"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7086"
+    },
+    {
+      "name": "Marinated Mixed Olives",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7873"
+    },
+    {
+      "name": "Roasted Red Pepper Hummus",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2273"
+    },
+    {
+      "name": "Classic Cheese Pizza",
+      "station": "Oven",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "427"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "station": "Oven",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "44"
+    },
+    {
+      "name": "Spinach & Ricotta Pizza",
+      "station": "Oven",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7914"
+    },
+    {
+      "name": "Chicken & Pepper Jack Sandwich",
+      "station": "Grill",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1180"
+    },
+    {
+      "name": "Vegan Chick'n Sandwich",
+      "station": "Grill",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7812"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "station": "Grill",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "506"
+    },
+    {
+      "name": "Sliced Tomatoes",
+      "station": "Grill",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7053"
+    },
+    {
+      "name": "Crispy Sweet Potato Fries",
+      "station": "Grill",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "789"
+    },
+    {
+      "name": "Red Lentil Rotini",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3659"
+    },
+    {
+      "name": "Cheese Tortellini",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2629"
+    },
+    {
+      "name": "Diced Chicken",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "369"
+    },
+    {
+      "name": "Tofu",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Diced Yellow Onions",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "372"
+    },
+    {
+      "name": "Sauteed Red and Green Peppers",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7045"
+    },
+    {
+      "name": "Marinara Sauce",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "575"
+    },
+    {
+      "name": "Alfredo Sauce",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6117"
+    },
+    {
+      "name": "Braised Pork Ragu",
+      "station": "Pasta",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7437"
+    },
+    {
+      "name": "Alfredo Vegetable Casserole",
+      "station": "Plant Power (Vegan)",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5516"
+    },
+    {
+      "name": "Sugar Cookie",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5280"
+    },
+    {
+      "name": "Oatmeal Raisin Cookie",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5282"
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "57"
+    },
+    {
+      "name": "Chocolate Brownie",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1274"
+    },
+    {
+      "name": "Spiced Apple Parfait",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1194"
+    },
+    {
+      "name": "CHERRY CHEESECAKE",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1488"
+    },
+    {
+      "name": "Eclair",
+      "station": "Sweets",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5651"
+    },
+    {
+      "name": "Roasted Glazed Turkey Breast",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7195"
+    },
+    {
+      "name": "Lentil Quinoa Blend",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7196"
+    },
+    {
+      "name": "Grilled Seasoned Chicken Breast",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2113"
+    },
+    {
+      "name": "White Rice",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "86"
+    },
+    {
+      "name": "Fudge Brownie Cookie",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8161"
+    },
+    {
+      "name": "Steamed Green Beans",
+      "station": "True Balance",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3773"
+    },
+    {
+      "name": "Tumeric & Quinoa Basmati Rice",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2468"
+    },
+    {
+      "name": "Grilled Spicy Lemon Chicken",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "671"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "289"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5824"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2551"
+    },
+    {
+      "name": "Kachumber Salad",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1775"
+    },
+    {
+      "name": "Vegan Green Goddess Dressing",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5047"
+    },
+    {
+      "name": "Sun dried Tomato Vinaigrette",
+      "station": "True Balance MTO",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7515"
+    },
+    {
+      "name": "Aloo Gobi",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1967"
+    },
+    {
+      "name": "Rogan Josh",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1965"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8046"
+    },
+    {
+      "name": "Grilled Naan",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7699"
+    },
+    {
+      "name": "Brown Lentil Dal",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1219"
+    },
+    {
+      "name": "Basmati Rice",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "705"
+    },
+    {
+      "name": "Cilantro Mint Chutney",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3973"
+    },
+    {
+      "name": "Pickled Red Onion",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1355"
+    },
+    {
+      "name": "Raita",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3023"
+    },
+    {
+      "name": "Tomato-Onion Chutney",
+      "station": "Spice Root",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2775"
+    },
+    {
+      "name": "BBQ Beef Brisket",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3234"
+    },
+    {
+      "name": "Baked Russet Potato",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "568"
+    },
+    {
+      "name": "Chili con Carne",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3157"
+    },
+    {
+      "name": "Cheddar Cheese Sauce",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6240"
+    },
+    {
+      "name": "Bacon Pieces",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7037"
+    },
+    {
+      "name": "Sour Cream",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "180"
+    },
+    {
+      "name": "Salsa",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "563"
+    },
+    {
+      "name": "Green Onions",
+      "station": "Loaded Creations",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "8172"
+    },
+    {
+      "name": "Ranch",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3416"
+    },
+    {
+      "name": "Watermelon",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "160"
+    },
+    {
+      "name": "Black Bean & Corn Salad",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3948"
+    },
+    {
+      "name": "Watermelon",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "160"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "289"
+    },
+    {
+      "name": "Baby Spinach",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2203"
+    },
+    {
+      "name": "Feta Cheese Crumbles",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7878"
+    },
+    {
+      "name": "Tofu",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "5320"
+    },
+    {
+      "name": "Lite Italian Dressing",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "500"
+    },
+    {
+      "name": "Twice Stuffed Baked Potato Soup",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6202"
+    },
+    {
+      "name": "Chopped Hard Cooked Egg",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "649"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "179"
+    },
+    {
+      "name": "Cucumbers",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "495"
+    },
+    {
+      "name": "Shredded Carrots",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "378"
+    },
+    {
+      "name": "Sliced Mixed Bell Peppers",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "1796"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3952"
+    },
+    {
+      "name": "Fresh Fruit Salad",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "297"
+    },
+    {
+      "name": "Romaine Lettuce",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "502"
+    },
+    {
+      "name": "Broccoli Cheddar Cheese Soup",
+      "station": "Produce Market",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "6923"
+    },
+    {
+      "name": "Coke",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2013"
+    },
+    {
+      "name": "Pibb XTRA Soda",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3713"
+    },
+    {
+      "name": "Barq's Root Beer",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2011"
+    },
+    {
+      "name": "Ginger Ale",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2016"
+    },
+    {
+      "name": "Powerade Mountain Blast",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2008"
+    },
+    {
+      "name": "Sprite",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2014"
+    },
+    {
+      "name": "Cherry Coke",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2012"
+    },
+    {
+      "name": "Diet Coke",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2015"
+    },
+    {
+      "name": "Coke Zero",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "2009"
+    },
+    {
+      "name": "Minute Maid Lemonade",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3715"
+    },
+    {
+      "name": "Mello Yello",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3714"
+    },
+    {
+      "name": "Vitamin WaterXXX:Acai-Blueberry-Pomegranate",
+      "station": "beverages",
+      "mealPeriod": "lunch",
+      "locationId": "leos",
+      "recipeId": "3735"
+    },
+    {
+      "name": "Spicy Fried Chicken",
+      "station": "Comfort",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3100"
+    },
+    {
+      "name": "Mac & Cheese",
+      "station": "Comfort",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1003"
+    },
+    {
+      "name": "Spicy Collard Greens",
+      "station": "Comfort",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1822"
+    },
+    {
+      "name": "Red Curry Chicken Bowl",
+      "station": "Halal",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6016"
+    },
+    {
+      "name": "Hummus",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "480"
+    },
+    {
+      "name": "Tofu",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Diced Red Onion",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5843"
+    },
+    {
+      "name": "Diced Cucumber",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3675"
+    },
+    {
+      "name": "Pita Wedges",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6048"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7086"
+    },
+    {
+      "name": "Marinated Mixed Olives",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7873"
+    },
+    {
+      "name": "Moroccan Hummus",
+      "station": "Hummus Bar (Vegetarian)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "8020"
+    },
+    {
+      "name": "Classic Cheese Pizza",
+      "station": "Oven",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "427"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "station": "Oven",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "44"
+    },
+    {
+      "name": "Grilled Vegetable Pizza",
+      "station": "Oven",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1121"
+    },
+    {
+      "name": "Crispy Chicken Tenders",
+      "station": "Grill",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7911"
+    },
+    {
+      "name": "Spicy Vegan Chicken Sandwich",
+      "station": "Grill",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7813"
+    },
+    {
+      "name": "Korean BBQ Sauce",
+      "station": "Grill",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1020"
+    },
+    {
+      "name": "Crispy Shoestring French Fries",
+      "station": "Grill",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5333"
+    },
+    {
+      "name": "Red Lentil Rotini",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3659"
+    },
+    {
+      "name": "Linguine",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2982"
+    },
+    {
+      "name": "Diced Chicken",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "369"
+    },
+    {
+      "name": "Grilled Italian Sausage",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3565"
+    },
+    {
+      "name": "Diced Yellow Onions",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "372"
+    },
+    {
+      "name": "Sauteed Red and Green Peppers",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7045"
+    },
+    {
+      "name": "Marinara Sauce",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "575"
+    },
+    {
+      "name": "Alfredo Sauce",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6117"
+    },
+    {
+      "name": "Tofu",
+      "station": "Pasta",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Chik'n Nuggets",
+      "station": "Plant Power (Vegan)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6646"
+    },
+    {
+      "name": "Plant-Based Mac & Cheese",
+      "station": "Plant Power (Vegan)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "8048"
+    },
+    {
+      "name": "Smoky Collard Greens",
+      "station": "Plant Power (Vegan)",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "8015"
+    },
+    {
+      "name": "Sugar Cookie",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5280"
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "57"
+    },
+    {
+      "name": "Oatmeal Raisin Cookie",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5282"
+    },
+    {
+      "name": "Strawberry Shortcake Parfait",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7533"
+    },
+    {
+      "name": "Strawberry-Mint Shortcake",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2366"
+    },
+    {
+      "name": "Cream Cheese Marbled Brownie",
+      "station": "Sweets",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "686"
+    },
+    {
+      "name": "BBQ Roast Turkey Breast",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6280"
+    },
+    {
+      "name": "Mac & Cheese",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7182"
+    },
+    {
+      "name": "Roasted Brussels Sprouts",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6339"
+    },
+    {
+      "name": "Grilled Seasoned Chicken Breast",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2113"
+    },
+    {
+      "name": "White Rice",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "86"
+    },
+    {
+      "name": "Vegan Chocolate Brownie",
+      "station": "True Balance",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "4829"
+    },
+    {
+      "name": "Tumeric & Quinoa Basmati Rice",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2468"
+    },
+    {
+      "name": "Grilled Spicy Lemon Chicken",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "671"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "289"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5824"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2551"
+    },
+    {
+      "name": "Kachumber Salad",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1775"
+    },
+    {
+      "name": "Vegan Green Goddess Dressing",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5047"
+    },
+    {
+      "name": "Sun dried Tomato Vinaigrette",
+      "station": "True Balance MTO",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7515"
+    },
+    {
+      "name": "Aloo Gobi",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1967"
+    },
+    {
+      "name": "Rogan Josh",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1965"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "8046"
+    },
+    {
+      "name": "Grilled Naan",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7699"
+    },
+    {
+      "name": "Brown Lentil Dal",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1219"
+    },
+    {
+      "name": "Basmati Rice",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "705"
+    },
+    {
+      "name": "Cilantro Mint Chutney",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3973"
+    },
+    {
+      "name": "Pickled Red Onion",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1355"
+    },
+    {
+      "name": "Raita",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3023"
+    },
+    {
+      "name": "Tomato-Onion Chutney",
+      "station": "Spice Root",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2775"
+    },
+    {
+      "name": "Baked Russet Potato",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "568"
+    },
+    {
+      "name": "Chili con Carne",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3157"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "179"
+    },
+    {
+      "name": "Sliced Scallions",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "389"
+    },
+    {
+      "name": "Cheddar Cheese Sauce",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6240"
+    },
+    {
+      "name": "Salsa",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "563"
+    },
+    {
+      "name": "Sour Cream",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5319"
+    },
+    {
+      "name": "Bacon Pieces",
+      "station": "Loaded Creations",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7037"
+    },
+    {
+      "name": "Ranch",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3416"
+    },
+    {
+      "name": "Watermelon",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "160"
+    },
+    {
+      "name": "Black Bean & Corn Salad",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3948"
+    },
+    {
+      "name": "Watermelon",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "160"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "289"
+    },
+    {
+      "name": "Baby Spinach",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2203"
+    },
+    {
+      "name": "Feta Cheese Crumbles",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7878"
+    },
+    {
+      "name": "Tofu",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "7063"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "5320"
+    },
+    {
+      "name": "Lite Italian Dressing",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "500"
+    },
+    {
+      "name": "Twice Stuffed Baked Potato Soup",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6202"
+    },
+    {
+      "name": "Chopped Hard Cooked Egg",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "649"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "179"
+    },
+    {
+      "name": "Cucumbers",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "495"
+    },
+    {
+      "name": "Shredded Carrots",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "378"
+    },
+    {
+      "name": "Sliced Mixed Bell Peppers",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "1796"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3952"
+    },
+    {
+      "name": "Fresh Fruit Salad",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "297"
+    },
+    {
+      "name": "Romaine Lettuce",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "502"
+    },
+    {
+      "name": "Broccoli Cheddar Cheese Soup",
+      "station": "Produce Market",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "6923"
+    },
+    {
+      "name": "Coke",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2013"
+    },
+    {
+      "name": "Pibb XTRA Soda",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3713"
+    },
+    {
+      "name": "Barq's Root Beer",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2011"
+    },
+    {
+      "name": "Ginger Ale",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2016"
+    },
+    {
+      "name": "Powerade Mountain Blast",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2008"
+    },
+    {
+      "name": "Sprite",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2014"
+    },
+    {
+      "name": "Cherry Coke",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2012"
+    },
+    {
+      "name": "Diet Coke",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2015"
+    },
+    {
+      "name": "Coke Zero",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "2009"
+    },
+    {
+      "name": "Minute Maid Lemonade",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3715"
+    },
+    {
+      "name": "Mello Yello",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3714"
+    },
+    {
+      "name": "Vitamin WaterXXX:Acai-Blueberry-Pomegranate",
+      "station": "beverages",
+      "mealPeriod": "dinner",
+      "locationId": "leos",
+      "recipeId": "3735"
+    },
+    {
+      "name": "Old Fashioned Oatmeal",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "1640"
+    },
+    {
+      "name": "Grits",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "5272"
+    },
+    {
+      "name": "Scrambled Cheese Eggs",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "5899"
+    },
+    {
+      "name": "Blueberry Buttermilk Pancakes",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "6606"
+    },
+    {
+      "name": "Turkey Sausage Link",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "5220"
+    },
+    {
+      "name": "Smoked Maple Sausage",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "7126"
+    },
+    {
+      "name": "Incogmeato Sausage Patty",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "5276"
+    },
+    {
+      "name": "French Toast Sticks",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "7266"
+    },
+    {
+      "name": "Home Fries",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "300"
+    },
+    {
+      "name": "Biscuits & Sausage Gravy",
+      "station": "Hot Buffet",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "322"
+    },
+    {
+      "name": "Yogurt Strawberry",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "351"
+    },
+    {
+      "name": "Tomatillo Salsa Guacamole",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "7397"
+    },
+    {
+      "name": "Nonfat Vanilla Yogurt",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "352"
+    },
+    {
+      "name": "Cottage Cheese",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "343"
+    },
+    {
+      "name": "Honeydew Melon",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "347"
+    },
+    {
+      "name": "Blueberry Mini Muffin",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "1035"
+    },
+    {
+      "name": "Mandarin Oranges",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "2544"
+    },
+    {
+      "name": "Red Grapes",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "1532"
+    },
+    {
+      "name": "Honey Granola",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "346"
+    },
+    {
+      "name": "Banana-Nut Mini Muffin",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "319"
+    },
+    {
+      "name": "Iced Cinnamon Roll",
+      "station": "Salad Bar",
+      "mealPeriod": "breakfast",
+      "locationId": "epis",
+      "recipeId": "310"
+    },
+    {
+      "name": "Butter Chicken",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "2678"
+    },
+    {
+      "name": "Cumin Roasted Cauliflower",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "7138"
+    },
+    {
+      "name": "Fresh Whole Green Beans",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "54"
+    },
+    {
+      "name": "Roasted Garlic Potatoes",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "221"
+    },
+    {
+      "name": "Sauteed Swiss Chard",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "7697"
+    },
+    {
+      "name": "Tofu Shawarma",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "7698"
+    },
+    {
+      "name": "Tumeric & Quinoa Basmati Rice",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "2468"
+    },
+    {
+      "name": "Grilled Naan",
+      "station": "Hot Buffet",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "7699"
+    },
+    {
+      "name": "Banana Peppers",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "2303"
+    },
+    {
+      "name": "Sliced Celery",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "504"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "289"
+    },
+    {
+      "name": "Romaine Lettuce",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "502"
+    },
+    {
+      "name": "Chopped Hard Cooked Egg",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "649"
+    },
+    {
+      "name": "Sliced Cucumbers",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "3861"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "3952"
+    },
+    {
+      "name": "Shredded Carrots",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "378"
+    },
+    {
+      "name": "Croutons",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "494"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "179"
+    },
+    {
+      "name": "Sliced Mixed Bell Peppers",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "1796"
+    },
+    {
+      "name": "Sliced Beets",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "503"
+    },
+    {
+      "name": "Black Olives",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "488"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "291"
+    },
+    {
+      "name": "Lite Italian Dressing",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "500"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "5320"
+    },
+    {
+      "name": "Ranch",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "3416"
+    },
+    {
+      "name": "Classic Hummus",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "647"
+    },
+    {
+      "name": "Roasted Red Pepper Hummus",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "6046"
+    },
+    {
+      "name": "Quinoa",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "2546"
+    },
+    {
+      "name": "Grilled Montreal Chicken",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "5936"
+    },
+    {
+      "name": "Red Potato Egg Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "1048"
+    },
+    {
+      "name": "Penne Pasta Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "960"
+    },
+    {
+      "name": "Italian Lentil Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "2759"
+    },
+    {
+      "name": "Grilled Vegetables",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "3108"
+    },
+    {
+      "name": "Diced Pineapple",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "344"
+    },
+    {
+      "name": "Red Grapes",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "1532"
+    },
+    {
+      "name": "Orange Sections",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "6991"
+    },
+    {
+      "name": "Honeydew Melon",
+      "station": "Salad Bar",
+      "mealPeriod": "lunch",
+      "locationId": "epis",
+      "recipeId": "347"
+    },
+    {
+      "name": "Country-Style Meatloaf",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "1100"
+    },
+    {
+      "name": "Fried Pork  Chop",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "6365"
+    },
+    {
+      "name": "Parslied Brown Rice & Farro",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "2420"
+    },
+    {
+      "name": "Spinach Gratin",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "5378"
+    },
+    {
+      "name": "Steamed Mixed Vegetables",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "534"
+    },
+    {
+      "name": "Yukon Gold Mashed Potatoes",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "8182"
+    },
+    {
+      "name": "Alfredo Pasta Primavera",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "2084"
+    },
+    {
+      "name": "Garlic Herb Breadstick",
+      "station": "Hot Buffet",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "734"
+    },
+    {
+      "name": "Banana Peppers",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "2303"
+    },
+    {
+      "name": "Sliced Celery",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "504"
+    },
+    {
+      "name": "Spring Salad Mix",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "289"
+    },
+    {
+      "name": "Romaine Lettuce",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "502"
+    },
+    {
+      "name": "Chopped Hard Cooked Egg",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "649"
+    },
+    {
+      "name": "Sliced Cucumbers",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "3861"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "3952"
+    },
+    {
+      "name": "Shredded Carrots",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "378"
+    },
+    {
+      "name": "Croutons",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "494"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "179"
+    },
+    {
+      "name": "Sliced Mixed Bell Peppers",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "1796"
+    },
+    {
+      "name": "Sliced Beets",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "503"
+    },
+    {
+      "name": "Black Olives",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "488"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "291"
+    },
+    {
+      "name": "Lite Italian Dressing",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "500"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "5320"
+    },
+    {
+      "name": "Ranch",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "3416"
+    },
+    {
+      "name": "Classic Hummus",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "647"
+    },
+    {
+      "name": "Roasted Red Pepper Hummus",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "6046"
+    },
+    {
+      "name": "Quinoa",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "2546"
+    },
+    {
+      "name": "Grilled Montreal Chicken",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "5936"
+    },
+    {
+      "name": "Red Potato Egg Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "1048"
+    },
+    {
+      "name": "Penne Pasta Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "960"
+    },
+    {
+      "name": "Italian Lentil Salad",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "2759"
+    },
+    {
+      "name": "Grilled Vegetables",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "3108"
+    },
+    {
+      "name": "Diced Pineapple",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "344"
+    },
+    {
+      "name": "Red Grapes",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "1532"
+    },
+    {
+      "name": "Orange Sections",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "6991"
+    },
+    {
+      "name": "Honeydew Melon",
+      "station": "Salad Bar",
+      "mealPeriod": "dinner",
+      "locationId": "epis",
+      "recipeId": "347"
+    },
+    {
+      "name": "Vegetable Lasagna",
+      "station": "Hot Buffet",
+      "mealPeriod": "other",
+      "locationId": "epis",
+      "recipeId": "6226"
+    },
+    {
+      "name": "Spaghetti with Meatballs",
+      "station": "Hot Buffet",
+      "mealPeriod": "other",
+      "locationId": "epis",
+      "recipeId": "1261"
+    },
+    {
+      "name": "Garlic Toast Slices",
+      "station": "Hot Buffet",
+      "mealPeriod": "other",
+      "locationId": "epis",
+      "recipeId": "55"
+    }
+  ]
+}
