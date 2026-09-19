@@ -1000,6 +1000,17 @@
     "sugar": 0.97,
     "sodium": 500
   },
+  "330": {
+    "name": "Banana Pancakes",
+    "servingSize": "2 each",
+    "calories": 200,
+    "protein": 5,
+    "carbs": 37,
+    "fat": 4,
+    "fiber": 2,
+    "sugar": 14,
+    "sodium": 105
+  },
   "336": {
     "name": "Cherry Tomatoes",
     "servingSize": "1 floz",
@@ -4971,6 +4982,17 @@
     "sugar": 19,
     "sodium": 10
   },
+  "2545": {
+    "name": "Crisp Bacon",
+    "servingSize": "1 Serving",
+    "calories": 140,
+    "protein": 10,
+    "carbs": 0.85,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 390
+  },
   "2546": {
     "name": "Quinoa",
     "servingSize": "1 serving",
@@ -6730,6 +6752,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 190
+  },
+  "5063": {
+    "name": "Harissa Lamb Bowl",
+    "servingSize": "1 Serving",
+    "calories": 360,
+    "protein": 19,
+    "carbs": 32,
+    "fat": 17,
+    "fiber": 6,
+    "sugar": 9,
+    "sodium": 760
   },
   "5075": {
     "name": "Barhat Spiced Beef and Chickpeas",
