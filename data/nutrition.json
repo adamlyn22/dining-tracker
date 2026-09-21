@@ -4102,6 +4102,17 @@
     "sugar": 0,
     "sodium": 160
   },
+  "1839": {
+    "name": "Spaghetti",
+    "servingSize": "0.5 cup",
+    "calories": 110,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 0.5,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 0
+  },
   "1847": {
     "name": "Jerk Chicken - catering",
     "servingSize": "1 each",
@@ -5575,6 +5586,17 @@
     "fiber": 0.91,
     "sugar": 8,
     "sodium": 110
+  },
+  "3045": {
+    "name": "Beef Bolognese",
+    "servingSize": "344.63 g",
+    "calories": 170,
+    "protein": 8,
+    "carbs": 13,
+    "fat": 8,
+    "fiber": 3,
+    "sugar": 8,
+    "sodium": 430
   },
   "3057": {
     "name": "Grilled Zucchini Flatbread",
@@ -7446,6 +7468,17 @@
     "sugar": 3,
     "sodium": 150
   },
+  "5448": {
+    "name": "Vegan Meat Sauce",
+    "servingSize": "2 Tbsp",
+    "calories": 40,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 100
+  },
   "5449": {
     "name": "Curried Chickpeas with Rice",
     "servingSize": "1 cup",
@@ -8710,6 +8743,17 @@
     "fiber": 1,
     "sugar": 8,
     "sodium": 390
+  },
+  "6082": {
+    "name": "Southwest Grain Bowl",
+    "servingSize": "1 Serving",
+    "calories": 460,
+    "protein": 15,
+    "carbs": 52,
+    "fat": 23,
+    "fiber": 7,
+    "sugar": 9,
+    "sodium": 270
   },
   "6083": {
     "name": "Tandoori Chicken Wings",
@@ -10569,6 +10613,17 @@
     "fiber": 1,
     "sugar": 14,
     "sodium": 770
+  },
+  "7407": {
+    "name": "Korean-style Fried Drumsticks",
+    "servingSize": "1 serving",
+    "calories": 340,
+    "protein": 21,
+    "carbs": 12,
+    "fat": 23,
+    "fiber": 0,
+    "sugar": 0.52,
+    "sodium": 190
   },
   "7409": {
     "name": "Beef Buffalo Burger",
@@ -13606,6 +13661,17 @@
     "sugar": 2,
     "sodium": 135
   },
+  "8184": {
+    "name": "Plant-Based Cavatappi Alfredo",
+    "servingSize": "1 cup",
+    "calories": 350,
+    "protein": 10,
+    "carbs": 49,
+    "fat": 14,
+    "fiber": 3,
+    "sugar": 3,
+    "sodium": 300
+  },
   "8186": {
     "name": "Hawaiian Burger",
     "servingSize": "1 each",
@@ -13638,5 +13704,16 @@
     "fiber": 4,
     "sugar": 9,
     "sodium": 930
+  },
+  "8191": {
+    "name": "Caribbean Jerk Beef Bowl",
+    "servingSize": "24 serving",
+    "calories": 21130,
+    "protein": 1122,
+    "carbs": 1956,
+    "fat": 925,
+    "fiber": 179,
+    "sugar": 374,
+    "sodium": 16060
   }
 }
