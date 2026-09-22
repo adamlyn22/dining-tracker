@@ -3981,6 +3981,17 @@
     "sugar": 0.61,
     "sodium": 160
   },
+  "1704": {
+    "name": "Mexican Street Corn",
+    "servingSize": "3.51 oz",
+    "calories": 140,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 8,
+    "fiber": 2,
+    "sugar": 5,
+    "sodium": 40
+  },
   "1775": {
     "name": "Kachumber Salad",
     "servingSize": "0.5 cup",
@@ -4487,6 +4498,17 @@
     "sugar": 0,
     "sodium": 470
   },
+  "2115": {
+    "name": "Taco Beef Filling",
+    "servingSize": "¼ cup",
+    "calories": 120,
+    "protein": 8,
+    "carbs": 1,
+    "fat": 9,
+    "fiber": 0,
+    "sugar": 0.56,
+    "sodium": 300
+  },
   "2119": {
     "name": "Marinara Pasta Sauce",
     "servingSize": "56.7 g",
@@ -4905,6 +4927,17 @@
     "sugar": 2,
     "sodium": 80
   },
+  "2461": {
+    "name": "Pork Chili Verde",
+    "servingSize": "1 serving",
+    "calories": 120,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 4.5,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 170
+  },
   "2468": {
     "name": "Tumeric & Quinoa Basmati Rice",
     "servingSize": "1 each",
@@ -5267,6 +5300,17 @@
     "fiber": 12,
     "sugar": 29,
     "sodium": 30
+  },
+  "2743": {
+    "name": "Roasted Veggies",
+    "servingSize": "½ cup",
+    "calories": 35,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 250
   },
   "2744": {
     "name": "Cilantro-Lime Pulled Chicken",
@@ -7126,6 +7170,17 @@
     "fiber": 0,
     "sugar": 8,
     "sodium": 370
+  },
+  "5324": {
+    "name": "Belgian Waffle",
+    "servingSize": "1 each",
+    "calories": 280,
+    "protein": 7,
+    "carbs": 53,
+    "fat": 4,
+    "fiber": 2,
+    "sugar": 6,
+    "sodium": 770
   },
   "5327": {
     "name": "Penne (made without gluten)",
@@ -9558,6 +9613,17 @@
     "sugar": 0,
     "sodium": 620
   },
+  "6675": {
+    "name": "Seasoned Black Beans",
+    "servingSize": "1 Serving",
+    "calories": 80,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 4,
+    "sugar": 0.5,
+    "sodium": 110
+  },
   "6676": {
     "name": "Cilantro Lime Rice",
     "servingSize": "1 Serving",
@@ -10833,6 +10899,17 @@
     "fiber": 6,
     "sugar": 0,
     "sodium": 95
+  },
+  "7575": {
+    "name": "Al Pastor Pulled Pork",
+    "servingSize": "0.5 cup",
+    "calories": 230,
+    "protein": 27,
+    "carbs": 5,
+    "fat": 12,
+    "fiber": 69,
+    "sugar": 6,
+    "sodium": 600
   },
   "7640": {
     "name": "Beyond Burger",
@@ -13715,5 +13792,16 @@
     "fiber": 179,
     "sugar": 374,
     "sodium": 16060
+  },
+  "8194": {
+    "name": "Plain Whole Fat Yogurt",
+    "servingSize": "4 oz",
+    "calories": 70,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 5,
+    "sodium": 55
   }
 }
