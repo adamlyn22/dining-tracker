@@ -1,4 +1,7 @@
-const DATA_BASE = "."; // Netlify publishes data/ alongside the app; always same-origin relative.
+// Deploys of the app shell and the daily data scrape are decoupled (no git-linked auto-deploy),
+// so data always comes from GitHub raw — the scraper commits there every morning regardless of
+// when this app was last shipped.
+const DATA_BASE = "https://raw.githubusercontent.com/adamlyn22/dining-tracker/main";
 
 const MEALS = ["breakfast", "lunch", "dinner"];
 const $ = (id) => document.getElementById(id);
