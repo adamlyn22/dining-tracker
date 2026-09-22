@@ -6,6 +6,20 @@ const DATA_BASE = "https://raw.githubusercontent.com/adamlyn22/dining-tracker/ma
 const MEALS = ["breakfast", "lunch", "dinner"];
 const $ = (id) => document.getElementById(id);
 
+// Saved combos, shown at the top of every meal's picker. Macros are the real hoyaeats.com
+// published values for each component summed — mayo is the one exception (Georgetown
+// publishes no standalone mayo nutrition anywhere; this is the USDA FoodData Central value
+// for 1 tbsp regular mayonnaise, added on request, flagged in the sub-label).
+const FAVORITES = [
+  {
+    recipeId: "fav-royal-jacket-sandwich",
+    name: "Royal Jacket sandwich",
+    station: "Favorites",
+    servingSize: "Pretzel bun, turkey, bacon¹, tomato, romaine, boom boom, mayo² — toasted",
+    nutrition: { calories: 715, protein: 27, carbs: 55, fat: 44 },
+  },
+];
+
 let MENU = [];
 let NUTRITION = {};
 let pickerMeal = null;
@@ -149,10 +163,14 @@ function renderPicker(query = "") {
   list.innerHTML = "";
   const q = query.trim().toLowerCase();
 
+  // Favorites aren't tied to a meal period, so they show up in every picker and in search.
+  const favMatches = FAVORITES.filter((f) => !q || f.name.toLowerCase().includes(q));
+
   // Searching looks across the whole day's menu; browsing stays scoped to the meal you tapped.
   let items = q
     ? MENU.filter((i) => i.name.toLowerCase().includes(q))
     : MENU.filter((i) => i.mealPeriod === pickerMeal);
+  items = [...favMatches, ...items];
 
   const seen = new Set();
   items = items.filter((i) => {
@@ -238,6 +256,9 @@ async function init() {
   const { menu, nutrition } = await loadData();
   MENU = menu.items;
   NUTRITION = nutrition;
+  for (const fav of FAVORITES) {
+    NUTRITION[fav.recipeId] = { ...fav.nutrition, servingSize: fav.servingSize };
+  }
   render();
 
   $("picker-back").onclick = closePicker;
