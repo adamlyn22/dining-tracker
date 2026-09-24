@@ -3024,6 +3024,17 @@
     "sugar": 0,
     "sodium": 160
   },
+  "1079": {
+    "name": "Sauteed Zucchini & Tomato",
+    "servingSize": "½ cup",
+    "calories": 45,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 2.5,
+    "fiber": 2,
+    "sugar": 1,
+    "sodium": 50
+  },
   "1081": {
     "name": "Spanish Rice",
     "servingSize": "½ cup",
@@ -6698,6 +6709,17 @@
     "sugar": 0.64,
     "sodium": 410
   },
+  "4467": {
+    "name": "Pomodoro Sauce",
+    "servingSize": "2 Tbsp",
+    "calories": 2020,
+    "protein": 40,
+    "carbs": 222,
+    "fat": 115,
+    "fiber": 46,
+    "sugar": 111,
+    "sodium": 12520
+  },
   "4469": {
     "name": "Skhug Sauce",
     "servingSize": "2 Tbsp",
@@ -8336,6 +8358,17 @@
     "fiber": 3,
     "sugar": 33,
     "sodium": 35
+  },
+  "5877": {
+    "name": "Blue Cheese Dressing",
+    "servingSize": "2 Tbsp",
+    "calories": 100,
+    "protein": 1,
+    "carbs": 0.69,
+    "fat": 10,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 160
   },
   "5893": {
     "name": "Diced Ham",
@@ -13276,6 +13309,17 @@
     "sugar": 0,
     "sodium": 300
   },
+  "8058": {
+    "name": "Mushroom Alfredo Sauce",
+    "servingSize": "1 floz",
+    "calories": 50,
+    "protein": 2,
+    "carbs": 2,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 1,
+    "sodium": 50
+  },
   "8059": {
     "name": "Creamy Marsala Ravioli",
     "servingSize": "1 serving",
@@ -14210,5 +14254,16 @@
     "fiber": 0,
     "sugar": 1,
     "sodium": 125
+  },
+  "8197": {
+    "name": "Chef Spotlight - Sancocho Dominicano",
+    "servingSize": "1 each",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 0
   }
 }
