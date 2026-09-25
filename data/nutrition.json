@@ -2474,6 +2474,17 @@
     "sugar": 2,
     "sodium": 450
   },
+  "864": {
+    "name": "Broccoli Rabe with Garlic",
+    "servingSize": "1 cup",
+    "calories": 70,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 3.5,
+    "fiber": 0,
+    "sugar": 2,
+    "sodium": 280
+  },
   "872": {
     "name": "Southwest Egg and Ham Pizza",
     "servingSize": "1 Slice",
@@ -2605,6 +2616,17 @@
     "fiber": 0,
     "sugar": 53,
     "sodium": 220
+  },
+  "928": {
+    "name": "Chicken Fajita Pizza",
+    "servingSize": "4.97 oz",
+    "calories": 300,
+    "protein": 15,
+    "carbs": 32,
+    "fat": 12,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 680
   },
   "929": {
     "name": "Buffalo-Style Chicken Wings",
@@ -3661,6 +3683,17 @@
     "fiber": 0.85,
     "sugar": 3,
     "sodium": 40
+  },
+  "1368": {
+    "name": "Romaine Greens Mix",
+    "servingSize": "4 oz",
+    "calories": 25,
+    "protein": 0.86,
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 10
   },
   "1406": {
     "name": "Shrimp & Grits",
@@ -8194,6 +8227,17 @@
     "sugar": 0,
     "sodium": 95
   },
+  "5682": {
+    "name": "Whole-Grain Penne",
+    "servingSize": "½ cup",
+    "calories": 120,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 1,
+    "fiber": 3,
+    "sugar": 1,
+    "sodium": 10
+  },
   "5685": {
     "name": "Southern Collard Greens",
     "servingSize": "¾ cup",
@@ -8798,6 +8842,17 @@
     "fiber": 3,
     "sugar": 3,
     "sodium": 240
+  },
+  "6017": {
+    "name": "Doner Kebab Wrap",
+    "servingSize": "1 each",
+    "calories": 360,
+    "protein": 17,
+    "carbs": 44,
+    "fat": 10,
+    "fiber": 3,
+    "sugar": 9,
+    "sodium": 1300
   },
   "6025": {
     "name": "Portobello Philly Cheesesteak",
@@ -9646,6 +9701,17 @@
     "sugar": 4,
     "sodium": 180
   },
+  "6559": {
+    "name": "Lamb Burger",
+    "servingSize": "2.53 oz",
+    "calories": 160,
+    "protein": 16,
+    "carbs": 0,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 290
+  },
   "6561": {
     "name": "Red Curry Coconut Crusted Fish",
     "servingSize": "1 Serving",
@@ -10053,6 +10119,17 @@
     "sugar": 0.78,
     "sodium": 0
   },
+  "6733": {
+    "name": "Italian Sausage",
+    "servingSize": "2 oz",
+    "calories": 180,
+    "protein": 9,
+    "carbs": 2,
+    "fat": 16,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 370
+  },
   "6738": {
     "name": "Dill Pickle Slices",
     "servingSize": "1 each",
@@ -10195,6 +10272,17 @@
     "fiber": 1,
     "sugar": 1,
     "sodium": 810
+  },
+  "6924": {
+    "name": "Spicy Chicken Bites",
+    "servingSize": "1 serving",
+    "calories": 80,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 550
   },
   "6932": {
     "name": "Beefy Tomato Penne Casserole",
@@ -11747,6 +11835,17 @@
     "sugar": 5,
     "sodium": 220
   },
+  "7763": {
+    "name": "Coconut Chia Pudding",
+    "servingSize": "1 each",
+    "calories": 60,
+    "protein": 0,
+    "carbs": 3,
+    "fat": 5,
+    "fiber": 0.92,
+    "sugar": 2,
+    "sodium": 20
+  },
   "7765": {
     "name": "Papas Rancheras",
     "servingSize": "0.5 cup",
@@ -11922,6 +12021,17 @@
     "fiber": 3,
     "sugar": 2,
     "sodium": 810
+  },
+  "7818": {
+    "name": "Peri Peri Chicken Sandwich",
+    "servingSize": "1 each",
+    "calories": 420,
+    "protein": 32,
+    "carbs": 33,
+    "fat": 17,
+    "fiber": 2,
+    "sugar": 6,
+    "sodium": 530
   },
   "7822": {
     "name": "Chargrilled Garden Vegetables",
@@ -13582,6 +13692,17 @@
     "fat": 4,
     "fiber": 3,
     "sugar": 19,
+    "sodium": 45
+  },
+  "8088": {
+    "name": "Strawberry Chia Thimble Cake",
+    "servingSize": "1 serving",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 21,
+    "fat": 7,
+    "fiber": 0.86,
+    "sugar": 11,
     "sodium": 45
   },
   "8089": {
