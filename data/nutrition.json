@@ -5565,6 +5565,17 @@
     "sugar": 2,
     "sodium": 460
   },
+  "2786": {
+    "name": "Jalapeno Mashed Peas",
+    "servingSize": "½ cup",
+    "calories": 110,
+    "protein": 6,
+    "carbs": 16,
+    "fat": 3,
+    "fiber": 5,
+    "sugar": 5,
+    "sodium": 430
+  },
   "2793": {
     "name": "California Blend Vegetables",
     "servingSize": "½ cup",
@@ -6664,6 +6675,17 @@
     "fiber": 3,
     "sugar": 5,
     "sodium": 910
+  },
+  "4299": {
+    "name": "Western Frittata",
+    "servingSize": "1 Serving",
+    "calories": 300,
+    "protein": 14,
+    "carbs": 9,
+    "fat": 24,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 570
   },
   "4305": {
     "name": "Cilantro Onions",
@@ -7919,6 +7941,17 @@
     "sugar": 0.94,
     "sodium": 1170
   },
+  "5543": {
+    "name": "Buffalo Cauliflower Wings!",
+    "servingSize": "1 cup",
+    "calories": 200,
+    "protein": 11,
+    "carbs": 31,
+    "fat": 4,
+    "fiber": 8,
+    "sugar": 12,
+    "sodium": 740
+  },
   "5550": {
     "name": "Sliced Cucumber",
     "servingSize": "1 serving",
@@ -8281,6 +8314,17 @@
     "fiber": 1,
     "sugar": 0.59,
     "sodium": 70
+  },
+  "5749": {
+    "name": "Sauteed Mushrooms",
+    "servingSize": "1 Serving",
+    "calories": 590,
+    "protein": 16,
+    "carbs": 16,
+    "fat": 54,
+    "fiber": 5,
+    "sugar": 11,
+    "sodium": 370
   },
   "5767": {
     "name": "BBQ Chicken & Cheddar Sandwich",
@@ -9843,6 +9887,17 @@
     "fiber": 2,
     "sugar": 8,
     "sodium": 500
+  },
+  "6610": {
+    "name": "Butternut Squash  Soup",
+    "servingSize": "1 Serving",
+    "calories": 160,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 10,
+    "sodium": 720
   },
   "6613": {
     "name": "Banana Buttermilk Pancake",
