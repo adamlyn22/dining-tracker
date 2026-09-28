@@ -373,6 +373,17 @@
     "sugar": 2,
     "sodium": 70
   },
+  "128": {
+    "name": "Yellow Cupcake",
+    "servingSize": "1 each",
+    "calories": 150,
+    "protein": 1,
+    "carbs": 21,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 11,
+    "sodium": 130
+  },
   "130": {
     "name": "Vegetable Stir-Fry - catering",
     "servingSize": "½ cup",
@@ -5367,6 +5378,17 @@
     "sugar": 2,
     "sodium": 930
   },
+  "2694": {
+    "name": "Vegan Cheeze Grits",
+    "servingSize": "8 floz",
+    "calories": 130,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 0,
+    "sodium": 115
+  },
   "2718": {
     "name": "Roasted Garlic Rice",
     "servingSize": "½ cup",
@@ -6070,6 +6092,17 @@
     "fiber": 2,
     "sugar": 5,
     "sodium": 370
+  },
+  "3401": {
+    "name": "Non-fat Vanilla Greek Yogurt",
+    "servingSize": "½ cup",
+    "calories": 80,
+    "protein": 10,
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 10,
+    "sodium": 35
   },
   "3402": {
     "name": "Sliced Strawberries",
@@ -14452,5 +14485,16 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 0
+  },
+  "8200": {
+    "name": "Beef Harissa Rice Bowl",
+    "servingSize": "9 oz",
+    "calories": 330,
+    "protein": 20,
+    "carbs": 31,
+    "fat": 8,
+    "fiber": 3,
+    "sugar": 6,
+    "sodium": 620
   }
 }
