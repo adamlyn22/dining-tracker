@@ -3805,6 +3805,17 @@
     "sugar": 18,
     "sodium": 170
   },
+  "1482": {
+    "name": "Buffalo Chicken Grilled Cheese",
+    "servingSize": "1 each",
+    "calories": 590,
+    "protein": 24,
+    "carbs": 54,
+    "fat": 31,
+    "fiber": 2,
+    "sugar": 12,
+    "sodium": 1000
+  },
   "1485": {
     "name": "Ranch Crusted Chicken Drumsticks",
     "servingSize": "1 serving",
@@ -14056,6 +14067,17 @@
     "fiber": 48,
     "sugar": 280,
     "sodium": 19000
+  },
+  "8131": {
+    "name": "Primavera Pizza",
+    "servingSize": "1 serving",
+    "calories": 270,
+    "protein": 13,
+    "carbs": 35,
+    "fat": 10,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 560
   },
   "8132": {
     "name": "Vegetable Fried Rice",
