@@ -6687,6 +6687,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "4079": {
+    "name": "Fried Cauliflower \"Rice\"",
+    "servingSize": "1 cup",
+    "calories": 230,
+    "protein": 12,
+    "carbs": 14,
+    "fat": 15,
+    "fiber": 5,
+    "sugar": 6,
+    "sodium": 440
+  },
   "4093": {
     "name": "Chayote and Zucchini Medley",
     "servingSize": "½ cup",
@@ -10944,6 +10955,17 @@
     "sugar": 2,
     "sodium": 350
   },
+  "7203": {
+    "name": "Chicken with Lemon Artichoke Sauce",
+    "servingSize": "1 serving",
+    "calories": 140,
+    "protein": 17,
+    "carbs": 5,
+    "fat": 5,
+    "fiber": 1,
+    "sugar": 0,
+    "sodium": 320
+  },
   "7207": {
     "name": "Pineapple Chunks",
     "servingSize": "1 cup",
@@ -14529,5 +14551,60 @@
     "fiber": 3,
     "sugar": 6,
     "sodium": 620
+  },
+  "8201": {
+    "name": "Japanese Vegetable Blend",
+    "servingSize": "3 oz",
+    "calories": 20,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 30
+  },
+  "8202": {
+    "name": "Lemon Pepper Kale Chips",
+    "servingSize": "0.5 cup",
+    "calories": 35,
+    "protein": 0,
+    "carbs": 0.62,
+    "fat": 3.5,
+    "fiber": 0.58,
+    "sugar": 0,
+    "sodium": 40
+  },
+  "8203": {
+    "name": "Vegetarian Taco Pizza",
+    "servingSize": "1 slice",
+    "calories": 330,
+    "protein": 16,
+    "carbs": 36,
+    "fat": 13,
+    "fiber": 5,
+    "sugar": 2,
+    "sodium": 940
+  },
+  "8206": {
+    "name": "Spinach Tomato Melt",
+    "servingSize": "1 each",
+    "calories": 420,
+    "protein": 16,
+    "carbs": 46,
+    "fat": 19,
+    "fiber": 3,
+    "sugar": 4,
+    "sodium": 820
+  },
+  "8207": {
+    "name": "Vegetarian Spicy Korean Lettuce Wraps",
+    "servingSize": "3 each",
+    "calories": 330,
+    "protein": 18,
+    "carbs": 44,
+    "fat": 9,
+    "fiber": 5,
+    "sugar": 11,
+    "sodium": 610
   }
 }
