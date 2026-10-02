@@ -3530,6 +3530,17 @@
     "sugar": 30,
     "sodium": 160
   },
+  "1242": {
+    "name": "Stromboli Quattro Formaggi",
+    "servingSize": "1 serving",
+    "calories": 270,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 10,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 550
+  },
   "1249": {
     "name": "Baked Tortellini Alfredo",
     "servingSize": "1 serving",
@@ -4299,6 +4310,17 @@
     "fiber": 5,
     "sugar": 5,
     "sodium": 360
+  },
+  "1905": {
+    "name": "Crispy Cornmeal Pollock",
+    "servingSize": "186.93 g",
+    "calories": 390,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 24,
+    "fiber": 0.98,
+    "sugar": 1,
+    "sodium": 490
   },
   "1927": {
     "name": "Korean Pork Taco",
@@ -8347,6 +8369,17 @@
     "fiber": 3,
     "sugar": 1,
     "sodium": 10
+  },
+  "5684": {
+    "name": "Baked Turkey Wings",
+    "servingSize": "1 cup",
+    "calories": 860,
+    "protein": 112,
+    "carbs": 2,
+    "fat": 43,
+    "fiber": 0,
+    "sugar": 0.54,
+    "sodium": 2060
   },
   "5685": {
     "name": "Southern Collard Greens",
@@ -14606,5 +14639,16 @@
     "fiber": 5,
     "sugar": 11,
     "sodium": 610
+  },
+  "8208": {
+    "name": "Whole Grain Rotini",
+    "servingSize": "0.5 cup",
+    "calories": 100,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 0,
+    "sodium": 5
   }
 }
