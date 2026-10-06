@@ -6093,6 +6093,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "3296": {
+    "name": "Vegan Shredded Cheddar Cheese",
+    "servingSize": "2 Tbsp",
+    "calories": 90,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 6,
+    "fiber": 1,
+    "sugar": 0,
+    "sodium": 250
+  },
   "3306": {
     "name": "Salisbury Steak & Mushroom Sauce",
     "servingSize": "1 Serving",
@@ -9590,6 +9601,17 @@
     "fiber": 5,
     "sugar": 2,
     "sodium": 95
+  },
+  "6363": {
+    "name": "Jackfruit Carnitas",
+    "servingSize": "½ cup",
+    "calories": 120,
+    "protein": 0,
+    "carbs": 18,
+    "fat": 5,
+    "fiber": 0.98,
+    "sugar": 1,
+    "sodium": 130
   },
   "6365": {
     "name": "Fried Pork  Chop",
