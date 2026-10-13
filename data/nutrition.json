@@ -8029,6 +8029,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "5519": {
+    "name": "Salsa Verde 2",
+    "servingSize": "1 Serving",
+    "calories": 310,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 2,
+    "fiber": 16,
+    "sugar": 35,
+    "sodium": 7420
+  },
   "5523": {
     "name": "Maple Roasted Squash",
     "servingSize": "1 Serving",
@@ -13462,6 +13473,17 @@
     "fiber": 1,
     "sugar": 1,
     "sodium": 480
+  },
+  "8030": {
+    "name": "Southwest Turkey Burger",
+    "servingSize": "1 each",
+    "calories": 460,
+    "protein": 27,
+    "carbs": 32,
+    "fat": 22,
+    "fiber": 3,
+    "sugar": 5,
+    "sodium": 700
   },
   "8031": {
     "name": "Cheesy Chicken Tortilla Soup",
