@@ -1044,6 +1044,17 @@
     "sugar": 0,
     "sodium": 65
   },
+  "340": {
+    "name": "Sauteed Onions",
+    "servingSize": "2 oz",
+    "calories": 50,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 3,
+    "fiber": 1,
+    "sugar": 3,
+    "sodium": 70
+  },
   "341": {
     "name": "Cantaloupe",
     "servingSize": "4 oz",
@@ -14760,5 +14771,16 @@
     "fiber": 1,
     "sugar": 0,
     "sodium": 5
+  },
+  "8225": {
+    "name": "Rice Krispies® Bar",
+    "servingSize": "1 each",
+    "calories": 210,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 15,
+    "sodium": 120
   }
 }
