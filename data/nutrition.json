@@ -2309,6 +2309,17 @@
     "sugar": 4,
     "sodium": 200
   },
+  "781": {
+    "name": "Sauteed Mushrooms",
+    "servingSize": "1 oz",
+    "calories": 40,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 3,
+    "fiber": 0,
+    "sugar": 0.92,
+    "sodium": 35
+  },
   "789": {
     "name": "Crispy Sweet Potato Fries",
     "servingSize": "3.25 oz",
@@ -5201,6 +5212,17 @@
     "fiber": 2,
     "sugar": 3,
     "sodium": 390
+  },
+  "2540": {
+    "name": "Strawberry Shortcake",
+    "servingSize": "1 each",
+    "calories": 220,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 13,
+    "fiber": 1,
+    "sugar": 15,
+    "sodium": 140
   },
   "2544": {
     "name": "Mandarin Oranges",
@@ -8546,6 +8568,17 @@
     "sugar": 0,
     "sodium": 440
   },
+  "5667": {
+    "name": "Chicago-Style Hot Dog",
+    "servingSize": "1 Serving",
+    "calories": 350,
+    "protein": 11,
+    "carbs": 35,
+    "fat": 18,
+    "fiber": 4,
+    "sugar": 8,
+    "sodium": 3340
+  },
   "5676": {
     "name": "Stir-Fry Vegetables",
     "servingSize": "½ cup",
@@ -10778,6 +10811,17 @@
     "fiber": 2,
     "sugar": 8,
     "sodium": 970
+  },
+  "7029": {
+    "name": "Cannolis",
+    "servingSize": "1 each",
+    "calories": 130,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 16,
+    "sodium": 40
   },
   "7036": {
     "name": "Shredded Cheddar Cheese",
