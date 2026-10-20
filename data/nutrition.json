@@ -6269,6 +6269,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "3295": {
+    "name": "Vegan Daiya Cheddar Cheese*",
+    "servingSize": "2 Tbsp",
+    "calories": 90,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 160
+  },
   "3296": {
     "name": "Vegan Shredded Cheddar Cheese",
     "servingSize": "2 Tbsp",
@@ -14266,6 +14277,17 @@
     "sugar": 4,
     "sodium": 170
   },
+  "8062": {
+    "name": "Cinnamon Toast Crunch(R) Brownie",
+    "servingSize": "1 each",
+    "calories": 360,
+    "protein": 3,
+    "carbs": 57,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 40,
+    "sodium": 170
+  },
   "8063": {
     "name": "Pineapple Glazed Bacon",
     "servingSize": "3 each",
@@ -15541,5 +15563,16 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 75
+  },
+  "8243": {
+    "name": "Vegetarian Loaded Potato Pizza",
+    "servingSize": "1 serving",
+    "calories": 320,
+    "protein": 13,
+    "carbs": 39,
+    "fat": 13,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 520
   }
 }
