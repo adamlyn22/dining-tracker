@@ -10438,6 +10438,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "6591": {
+    "name": "Fresh  Strawberries",
+    "servingSize": "1 Serving",
+    "calories": 25,
+    "protein": 0.5,
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 2,
+    "sugar": 4,
+    "sodium": 0
+  },
   "6593": {
     "name": "Royal Bacon, Egg and Cheese Burrito",
     "servingSize": "12.93 oz",
@@ -11416,6 +11427,17 @@
     "fiber": 2,
     "sugar": 30,
     "sodium": 115
+  },
+  "7159": {
+    "name": "Double Chocolate Chip Muffin",
+    "servingSize": "1 serving",
+    "calories": 420,
+    "protein": 5,
+    "carbs": 73,
+    "fat": 13,
+    "fiber": 5,
+    "sugar": 40,
+    "sodium": 470
   },
   "7163": {
     "name": "Grilled Teriyaki Salmon",
@@ -14496,6 +14518,17 @@
     "fiber": 3,
     "sugar": 3,
     "sodium": 170
+  },
+  "8081": {
+    "name": "Chocolate Mousse",
+    "servingSize": "0.5 cup",
+    "calories": 140,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 9,
+    "fiber": 1,
+    "sugar": 12,
+    "sodium": 0
   },
   "8083": {
     "name": "Butter Masala Meatballs",
