@@ -1407,6 +1407,17 @@
     "sugar": 6,
     "sodium": 590
   },
+  "420": {
+    "name": "Lettuce",
+    "servingSize": "0.5 cup",
+    "calories": 10,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 0.5,
+    "sodium": 15
+  },
   "422": {
     "name": "Grilled Herb Chicken Sandwich",
     "servingSize": "1 each",
@@ -8029,6 +8040,17 @@
     "sugar": 0,
     "sodium": 5
   },
+  "5410": {
+    "name": "Mac & Cheese",
+    "servingSize": "1 Serving",
+    "calories": 110,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 2,
+    "sodium": 220
+  },
   "5411": {
     "name": "Vegan Breakfast Bowl",
     "servingSize": "1 cup",
@@ -10162,6 +10184,17 @@
     "fiber": 0,
     "sugar": 3,
     "sodium": 0
+  },
+  "6434": {
+    "name": "Broccoli Cheddar Soup",
+    "servingSize": "1 cup",
+    "calories": 250,
+    "protein": 10,
+    "carbs": 17,
+    "fat": 17,
+    "fiber": 2,
+    "sugar": 5,
+    "sodium": 470
   },
   "6458": {
     "name": "Red Pickled Cabbage",
