@@ -10053,6 +10053,17 @@
     "sugar": 0.57,
     "sodium": 30
   },
+  "6330": {
+    "name": "Sliced Red Onion",
+    "servingSize": "1 Serving",
+    "calories": 30,
+    "protein": 0,
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 3,
+    "sodium": 0
+  },
   "6339": {
     "name": "Roasted Brussels Sprouts",
     "servingSize": "½ cup",
@@ -11076,6 +11087,17 @@
     "sugar": 0.68,
     "sodium": 140
   },
+  "6989": {
+    "name": "Shredded Cheddar Cheese",
+    "servingSize": "2 oz",
+    "calories": 230,
+    "protein": 13,
+    "carbs": 3,
+    "fat": 18,
+    "fiber": 0,
+    "sugar": 0.57,
+    "sodium": 360
+  },
   "6991": {
     "name": "Orange Sections",
     "servingSize": "4 oz",
@@ -11163,6 +11185,17 @@
     "fiber": 1,
     "sugar": 2,
     "sodium": 0
+  },
+  "7039": {
+    "name": "Hard-cooked Egg",
+    "servingSize": "1 each",
+    "calories": 80,
+    "protein": 7,
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 80
   },
   "7041": {
     "name": "Shredded Romaine",
@@ -12252,6 +12285,17 @@
     "fiber": 69,
     "sugar": 6,
     "sodium": 600
+  },
+  "7595": {
+    "name": "Arugala Spring Mix",
+    "servingSize": "0.5 cup",
+    "calories": 30,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 0.5,
+    "fiber": 2,
+    "sugar": 1,
+    "sodium": 80
   },
   "7640": {
     "name": "Beyond Burger",
