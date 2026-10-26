@@ -4311,6 +4311,17 @@
     "sugar": 0,
     "sodium": 160
   },
+  "1832": {
+    "name": "Raita",
+    "servingSize": "1 floz",
+    "calories": 10,
+    "protein": 1,
+    "carbs": 0.94,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0.61,
+    "sodium": 55
+  },
   "1839": {
     "name": "Spaghetti",
     "servingSize": "0.5 cup",
@@ -8897,6 +8908,17 @@
     "fiber": 2,
     "sugar": 4,
     "sodium": 760
+  },
+  "5785": {
+    "name": "Smoked Beef Brisket",
+    "servingSize": "1 Serving",
+    "calories": 520,
+    "protein": 34,
+    "carbs": 0,
+    "fat": 42,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 290
   },
   "5787": {
     "name": "Fried Cabbage",
