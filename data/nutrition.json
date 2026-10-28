@@ -1341,6 +1341,17 @@
     "sugar": 0.54,
     "sodium": 0
   },
+  "388": {
+    "name": "Sauteed Mushrooms",
+    "servingSize": "¼ cup",
+    "calories": 35,
+    "protein": 1,
+    "carbs": 0.95,
+    "fat": 3,
+    "fiber": 0,
+    "sugar": 0.6,
+    "sodium": 25
+  },
   "389": {
     "name": "Sliced Scallions",
     "servingSize": "1 oz",
@@ -10218,6 +10229,17 @@
     "sugar": 3,
     "sodium": 0
   },
+  "6425": {
+    "name": "Fresh Cantaloupe",
+    "servingSize": "½ cup",
+    "calories": 40,
+    "protein": 0.95,
+    "carbs": 9,
+    "fat": 0,
+    "fiber": 0.95,
+    "sugar": 8,
+    "sodium": 20
+  },
   "6434": {
     "name": "Broccoli Cheddar Soup",
     "servingSize": "1 cup",
@@ -13660,6 +13682,17 @@
     "fiber": 4,
     "sugar": 9,
     "sodium": 280
+  },
+  "7951": {
+    "name": "Grapes",
+    "servingSize": "0.5 cup",
+    "calories": 50,
+    "protein": 1,
+    "carbs": 14,
+    "fat": 0,
+    "fiber": 0.68,
+    "sugar": 12,
+    "sodium": 0
   },
   "7959": {
     "name": "Cream Cheese Icing",
