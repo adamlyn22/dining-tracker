@@ -1594,6 +1594,17 @@
     "sugar": 0.59,
     "sodium": 660
   },
+  "478": {
+    "name": "Sliced Ham",
+    "servingSize": "3 slices",
+    "calories": 210,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 8,
+    "fiber": 0,
+    "sugar": 3,
+    "sodium": 2100
+  },
   "480": {
     "name": "Hummus",
     "servingSize": "2 oz",
@@ -7006,6 +7017,17 @@
     "sugar": 1,
     "sodium": 60
   },
+  "4095": {
+    "name": "Crispy Onions",
+    "servingSize": "1 Serving",
+    "calories": 210,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 7,
+    "fiber": 3,
+    "sugar": 5,
+    "sodium": 75
+  },
   "4102": {
     "name": "Crabbyless Crab Cake",
     "servingSize": "1 each",
@@ -10240,6 +10262,17 @@
     "sugar": 8,
     "sodium": 20
   },
+  "6427": {
+    "name": "Sliced Cucumbers",
+    "servingSize": "1 oz",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0.84,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 0
+  },
   "6434": {
     "name": "Broccoli Cheddar Soup",
     "servingSize": "1 cup",
@@ -13078,6 +13111,17 @@
     "sugar": 5,
     "sodium": 1800
   },
+  "7857": {
+    "name": "Grilled Pita",
+    "servingSize": "1 each",
+    "calories": 240,
+    "protein": 7,
+    "carbs": 41,
+    "fat": 5,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 540
+  },
   "7864": {
     "name": "Grilled Vegetable Wrap",
     "servingSize": "1 each",
@@ -15750,5 +15794,16 @@
     "fiber": 2,
     "sugar": 3,
     "sodium": 520
+  },
+  "8251": {
+    "name": "Overnight Chia Oats",
+    "servingSize": "4 floz",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 6,
+    "fiber": 4,
+    "sugar": 9,
+    "sodium": 105
   }
 }
