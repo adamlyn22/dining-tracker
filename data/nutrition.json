@@ -8535,6 +8535,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "5558": {
+    "name": "Grape Tomatoes",
+    "servingSize": "1 Serving",
+    "calories": 10,
+    "protein": 1,
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 0.76,
+    "sugar": 0.76,
+    "sodium": 0
+  },
   "5559": {
     "name": "Roasted Red Potatoes",
     "servingSize": "1 Serving",
@@ -10272,6 +10283,17 @@
     "fiber": 0.95,
     "sugar": 8,
     "sodium": 20
+  },
+  "6426": {
+    "name": "Chopped Egg",
+    "servingSize": "1 each",
+    "calories": 90,
+    "protein": 7,
+    "carbs": 1,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 1,
+    "sodium": 80
   },
   "6427": {
     "name": "Sliced Cucumbers",
