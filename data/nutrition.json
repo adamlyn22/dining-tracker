@@ -6632,6 +6632,17 @@
     "sugar": 8,
     "sodium": 500
   },
+  "3625": {
+    "name": "Rotisserie Style Chicken",
+    "servingSize": "1 Serving",
+    "calories": 340,
+    "protein": 43,
+    "carbs": 0,
+    "fat": 18,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 360
+  },
   "3629": {
     "name": "Roasted Spaghetti Squash",
     "servingSize": "½ cup",
@@ -11120,6 +11131,17 @@
     "sugar": 30,
     "sodium": 360
   },
+  "6913": {
+    "name": "Italian Wedding Soup",
+    "servingSize": "1 serving",
+    "calories": 110,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 4,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 790
+  },
   "6923": {
     "name": "Broccoli Cheddar Cheese Soup",
     "servingSize": "1 serving",
@@ -12252,6 +12274,17 @@
     "fiber": 2,
     "sugar": 8,
     "sodium": 490
+  },
+  "7490": {
+    "name": "Overnight Chia & Raisin Oats",
+    "servingSize": "1 serving",
+    "calories": 180,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 4.5,
+    "fiber": 4,
+    "sugar": 14,
+    "sodium": 80
   },
   "7497": {
     "name": "Overnight Apple & Cranberry Oats",
@@ -15838,5 +15871,49 @@
     "fiber": 4,
     "sugar": 9,
     "sodium": 105
+  },
+  "8253": {
+    "name": "Lemongrass Chicken Dumplings - Takeover",
+    "servingSize": "4 each",
+    "calories": 160,
+    "protein": 9,
+    "carbs": 21,
+    "fat": 30,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 410
+  },
+  "8254": {
+    "name": "Edamame Dumplings",
+    "servingSize": "4 each",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 0
+  },
+  "8255": {
+    "name": "Minh Lomein Takeover",
+    "servingSize": "1 each",
+    "calories": 260,
+    "protein": 3,
+    "carbs": 36,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 18,
+    "sodium": 3640
+  },
+  "8256": {
+    "name": "Vegetable Spring Roll- Takeover",
+    "servingSize": "3 each",
+    "calories": 190,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 10,
+    "fiber": 3,
+    "sugar": 3,
+    "sodium": 360
   }
 }
