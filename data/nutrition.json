@@ -6676,6 +6676,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "3664": {
+    "name": "Seasoned Black Beans",
+    "servingSize": "½ cup",
+    "calories": 80,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 6,
+    "sugar": 0.54,
+    "sodium": 410
+  },
   "3675": {
     "name": "Diced Cucumber",
     "servingSize": "1 serving",
@@ -7016,6 +7027,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 0
+  },
+  "4032": {
+    "name": "Vegan Daiya Mozzarella Cheese",
+    "servingSize": "2 Tbsp",
+    "calories": 90,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 6,
+    "fiber": 1,
+    "sugar": 0,
+    "sodium": 280
   },
   "4079": {
     "name": "Fried Cauliflower \"Rice\"",
@@ -8281,6 +8303,17 @@
     "fiber": 2,
     "sugar": 0.78,
     "sodium": 90
+  },
+  "5472": {
+    "name": "Diced Red Onion",
+    "servingSize": "1 Tbsp",
+    "calories": 340,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 15,
+    "fiber": 9,
+    "sugar": 23,
+    "sodium": 740
   },
   "5483": {
     "name": "Plant-Based Alfredo Sauce",
