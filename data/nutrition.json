@@ -6247,6 +6247,17 @@
     "sugar": 4,
     "sodium": 65
   },
+  "3179": {
+    "name": "Grapefruit",
+    "servingSize": "154 g",
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 2,
+    "sugar": 11,
+    "sodium": 0
+  },
   "3198": {
     "name": "Grilled BBQ Pork Loin",
     "servingSize": "1 Serving",
@@ -8710,6 +8721,17 @@
     "fiber": 3,
     "sugar": 2,
     "sodium": 250
+  },
+  "5595": {
+    "name": "General Tso's Chicken",
+    "servingSize": "1 Serving",
+    "calories": 420,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 23,
+    "fiber": 2,
+    "sugar": 22,
+    "sodium": 890
   },
   "5597": {
     "name": "Steamed Yuca",
@@ -14573,6 +14595,17 @@
     "fiber": 0,
     "sugar": 3,
     "sodium": 480
+  },
+  "8060": {
+    "name": "Gemelli",
+    "servingSize": "0.5 cup",
+    "calories": 90,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 0.74,
+    "sodium": 5
   },
   "8061": {
     "name": "Creamy Gemelli",
