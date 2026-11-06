@@ -4916,6 +4916,17 @@
     "sugar": 4,
     "sodium": 6240
   },
+  "2217": {
+    "name": "Feta Cheese Crumbles",
+    "servingSize": "1 oz",
+    "calories": 80,
+    "protein": 5,
+    "carbs": 0.99,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0.99,
+    "sodium": 310
+  },
   "2224": {
     "name": "Chia Seed",
     "servingSize": "1 Tbsp",
@@ -6444,6 +6455,17 @@
     "fiber": 0,
     "sugar": 17,
     "sodium": 0
+  },
+  "3405": {
+    "name": "Non-fat Strawberry Greek Yogurt",
+    "servingSize": "½ cup",
+    "calories": 90,
+    "protein": 9,
+    "carbs": 13,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 13,
+    "sodium": 35
   },
   "3416": {
     "name": "Ranch",
@@ -9877,6 +9899,17 @@
     "sugar": 1,
     "sodium": 720
   },
+  "6175": {
+    "name": "Pita Bread",
+    "servingSize": "1 Serving",
+    "calories": 210,
+    "protein": 7,
+    "carbs": 41,
+    "fat": 2,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 540
+  },
   "6177": {
     "name": "Arroz Rojo",
     "servingSize": "½ cup",
@@ -11559,6 +11592,17 @@
     "fiber": 4,
     "sugar": 0,
     "sodium": 5
+  },
+  "7124": {
+    "name": "Green Scallions",
+    "servingSize": "1 tbsp",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 0
   },
   "7125": {
     "name": "Fresh Cilantro",
