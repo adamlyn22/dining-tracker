@@ -3145,6 +3145,17 @@
     "sugar": 1,
     "sodium": 360
   },
+  "1066": {
+    "name": "Carne Asada",
+    "servingSize": "3 oz",
+    "calories": 150,
+    "protein": 25,
+    "carbs": 1,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 75
+  },
   "1070": {
     "name": "Corn on the Cob",
     "servingSize": "1 each",
@@ -3694,6 +3705,17 @@
     "fiber": 1,
     "sugar": 2,
     "sodium": 580
+  },
+  "1270": {
+    "name": "Grilled Carne Asada Pork Loin",
+    "servingSize": "113.4 g",
+    "calories": 190,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 9,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 270
   },
   "1274": {
     "name": "Chocolate Brownie",
@@ -5597,6 +5619,17 @@
     "fiber": 2,
     "sugar": 3,
     "sodium": 170
+  },
+  "2675": {
+    "name": "Baked Seasoned Tilapia",
+    "servingSize": "113.4 g",
+    "calories": 100,
+    "protein": 21,
+    "carbs": 0,
+    "fat": 2.5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 40
   },
   "2676": {
     "name": "Grilled Montreal Salmon",
