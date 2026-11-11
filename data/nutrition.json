@@ -4179,6 +4179,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "1620": {
+    "name": "Sweet & Sour Meatballs",
+    "servingSize": "1 each",
+    "calories": 190,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 13,
+    "fiber": 1,
+    "sugar": 8,
+    "sodium": 260
+  },
   "1621": {
     "name": "Whole Grain Lemon Poppy Mini Muffin",
     "servingSize": "38.6 g",
@@ -7468,6 +7479,17 @@
     "sugar": 0,
     "sodium": 110
   },
+  "4881": {
+    "name": "Cantonese-Style Pollock",
+    "servingSize": "1 Serving",
+    "calories": 190,
+    "protein": 20,
+    "carbs": 3,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 2,
+    "sodium": 480
+  },
   "4935": {
     "name": "Vegan Ranch Dressing",
     "servingSize": "2 Tbsp",
@@ -10218,6 +10240,17 @@
     "sugar": 6,
     "sodium": 170
   },
+  "6287": {
+    "name": "Vegetarian Minestrone Soup",
+    "servingSize": "1 Serving",
+    "calories": 60,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 0,
+    "fiber": 3,
+    "sugar": 0,
+    "sodium": 690
+  },
   "6294": {
     "name": "Black Bean Stuffed Pepper",
     "servingSize": "1 Serving",
@@ -12219,6 +12252,17 @@
     "fiber": 1,
     "sugar": 0,
     "sodium": 0
+  },
+  "7378": {
+    "name": "Szechuan Chicken",
+    "servingSize": "0.5 cup",
+    "calories": 110,
+    "protein": 9,
+    "carbs": 8,
+    "fat": 6,
+    "fiber": 0.89,
+    "sugar": 5,
+    "sodium": 710
   },
   "7379": {
     "name": "Miso Carrots & Butternut Squash",
