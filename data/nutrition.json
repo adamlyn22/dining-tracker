@@ -10042,6 +10042,17 @@
     "sugar": 1,
     "sodium": 590
   },
+  "6223": {
+    "name": "Stewed Okra",
+    "servingSize": "½ cup",
+    "calories": 150,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 9,
+    "fiber": 4,
+    "sugar": 5,
+    "sodium": 650
+  },
   "6226": {
     "name": "Vegetable Lasagna",
     "servingSize": "1 cup",
@@ -16069,6 +16080,17 @@
     "fiber": 2,
     "sugar": 3,
     "sodium": 520
+  },
+  "8250": {
+    "name": "Macaroni and Cheese",
+    "servingSize": "35 servings",
+    "calories": 9630,
+    "protein": 295,
+    "carbs": 1551,
+    "fat": 262,
+    "fiber": 109,
+    "sugar": 56,
+    "sodium": 13050
   },
   "8251": {
     "name": "Overnight Chia Oats",
