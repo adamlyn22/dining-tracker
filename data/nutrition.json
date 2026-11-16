@@ -1616,6 +1616,17 @@
     "sugar": 0.94,
     "sodium": 115
   },
+  "483": {
+    "name": "Sliced Grilled Chicken",
+    "servingSize": "3 oz",
+    "calories": 150,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 8,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 190
+  },
   "484": {
     "name": "Swiss Cheese",
     "servingSize": "1 Slice",
@@ -6004,6 +6015,17 @@
     "fiber": 1,
     "sugar": 1,
     "sodium": 0
+  },
+  "2981": {
+    "name": "Grated Parmesan Cheese",
+    "servingSize": "1 oz",
+    "calories": 120,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 8,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 510
   },
   "2982": {
     "name": "Linguine",
@@ -12472,6 +12494,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 810
+  },
+  "7435": {
+    "name": "Creamy Caesar Dressing",
+    "servingSize": "1 oz",
+    "calories": 50,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 170
   },
   "7437": {
     "name": "Braised Pork Ragu",
