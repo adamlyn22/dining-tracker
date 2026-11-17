@@ -4707,6 +4707,17 @@
     "sugar": 3,
     "sodium": 230
   },
+  "2046": {
+    "name": "Cilantro Brown Rice",
+    "servingSize": "½ cup",
+    "calories": 140,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0.59,
+    "sodium": 135
+  },
   "2049": {
     "name": "Green Chili Calabacitas",
     "servingSize": "0.5 cup",
@@ -5928,6 +5939,17 @@
     "sugar": 5,
     "sodium": 430
   },
+  "2791": {
+    "name": "Beef Taco",
+    "servingSize": "2.93 oz",
+    "calories": 190,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 11,
+    "fiber": 0.89,
+    "sugar": 0.97,
+    "sodium": 240
+  },
   "2793": {
     "name": "California Blend Vegetables",
     "servingSize": "½ cup",
@@ -6587,6 +6609,17 @@
     "fiber": 2,
     "sugar": 24,
     "sodium": 20
+  },
+  "3493": {
+    "name": "Cucumber Pico de Gallo",
+    "servingSize": "2 Tbsp",
+    "calories": 15,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 120
   },
   "3524": {
     "name": "Red Cabbage",
@@ -16114,6 +16147,17 @@
     "sugar": 0,
     "sodium": 75
   },
+  "8242": {
+    "name": "Loaded Potato Pizza",
+    "servingSize": "1 serving",
+    "calories": 330,
+    "protein": 13,
+    "carbs": 39,
+    "fat": 13,
+    "fiber": 2,
+    "sugar": 3,
+    "sodium": 560
+  },
   "8243": {
     "name": "Vegetarian Loaded Potato Pizza",
     "servingSize": "1 serving",
@@ -16190,5 +16234,16 @@
     "fiber": 3,
     "sugar": 3,
     "sodium": 360
+  },
+  "8260": {
+    "name": "Grilled Pineapple Salsa",
+    "servingSize": "1 floz",
+    "calories": 20,
+    "protein": 0,
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 4,
+    "sodium": 10
   }
 }
