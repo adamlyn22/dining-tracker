@@ -7347,6 +7347,17 @@
     "sugar": 20,
     "sodium": 115
   },
+  "4398": {
+    "name": "Overnight Chia Oats",
+    "servingSize": "6.24 oz",
+    "calories": 250,
+    "protein": 13,
+    "carbs": 38,
+    "fat": 6,
+    "fiber": 6,
+    "sugar": 15,
+    "sodium": 180
+  },
   "4428": {
     "name": "Housemade Pound Cake",
     "servingSize": "1 Slice",
@@ -16245,5 +16256,16 @@
     "fiber": 0,
     "sugar": 4,
     "sodium": 10
+  },
+  "8265": {
+    "name": "Raspberries",
+    "servingSize": "1 oz",
+    "calories": 15,
+    "protein": 0,
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 2,
+    "sugar": 1,
+    "sodium": 0
   }
 }
