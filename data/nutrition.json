@@ -2023,6 +2023,17 @@
     "sugar": 17,
     "sodium": 95
   },
+  "634": {
+    "name": "Bacon Potato Salad",
+    "servingSize": "0.5 cup",
+    "calories": 240,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 20,
+    "fiber": 3,
+    "sugar": 3,
+    "sodium": 350
+  },
   "635": {
     "name": "Chile Verde Chicken Drumstick",
     "servingSize": "24 serving",
@@ -2033,6 +2044,17 @@
     "fiber": 18,
     "sugar": 114,
     "sodium": 4700
+  },
+  "641": {
+    "name": "Sunflower Seeds",
+    "servingSize": "1 tsp",
+    "calories": 35,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 3,
+    "fiber": 0.62,
+    "sugar": 0,
+    "sodium": 0
   },
   "647": {
     "name": "Classic Hummus",
@@ -2077,6 +2099,17 @@
     "fiber": 2,
     "sugar": 14,
     "sodium": 580
+  },
+  "656": {
+    "name": "Roasted Herbed Turkey Breast",
+    "servingSize": "3 oz",
+    "calories": 140,
+    "protein": 21,
+    "carbs": 1,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 620
   },
   "657": {
     "name": "Roasted Brussels Sprouts",
@@ -3167,6 +3200,17 @@
     "sugar": 0,
     "sodium": 75
   },
+  "1067": {
+    "name": "Old Fasioned Mashed Potatoes",
+    "servingSize": "½ cup",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 3,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 80
+  },
   "1070": {
     "name": "Corn on the Cob",
     "servingSize": "1 each",
@@ -3463,6 +3507,17 @@
     "fiber": 0,
     "sugar": 16,
     "sodium": 150
+  },
+  "1148": {
+    "name": "Caesar Pasta Salad",
+    "servingSize": "0.5 cup",
+    "calories": 210,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 260
   },
   "1152": {
     "name": "Apple Cheddar Turkey Burger",
@@ -4168,6 +4223,28 @@
     "sugar": 5,
     "sodium": 115
   },
+  "1600": {
+    "name": "Green Bean Casserole",
+    "servingSize": "½ cup",
+    "calories": 100,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 5,
+    "fiber": 3,
+    "sugar": 4,
+    "sodium": 230
+  },
+  "1601": {
+    "name": "Turkey Gravy",
+    "servingSize": "¼ cup",
+    "calories": 50,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 3.5,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 230
+  },
   "1604": {
     "name": "Pumpkin Cream Cheese Brownie",
     "servingSize": "1 each",
@@ -4871,6 +4948,17 @@
     "fiber": 0,
     "sugar": 0,
     "sodium": 170
+  },
+  "2137": {
+    "name": "Baked Macaroni & Cheese",
+    "servingSize": "½ cup",
+    "calories": 510,
+    "protein": 18,
+    "carbs": 43,
+    "fat": 29,
+    "fiber": 3,
+    "sugar": 7,
+    "sodium": 390
   },
   "2138": {
     "name": "Mashed Sweet Potato",
@@ -6786,6 +6874,17 @@
     "sugar": 78,
     "sodium": 4380
   },
+  "3630": {
+    "name": "Diced Tomatoes",
+    "servingSize": "1 serving",
+    "calories": 10,
+    "protein": 0,
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0.91,
+    "sugar": 2,
+    "sodium": 0
+  },
   "3646": {
     "name": "Spicy Queso Dip",
     "servingSize": "¼ cup",
@@ -7038,6 +7137,17 @@
     "fiber": 0.92,
     "sugar": 4,
     "sodium": 220
+  },
+  "3901": {
+    "name": "Smoked Beef Brisket",
+    "servingSize": "3 oz",
+    "calories": 400,
+    "protein": 27,
+    "carbs": 0,
+    "fat": 32,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 180
   },
   "3911": {
     "name": "Roasted Butternut Squash",
@@ -9095,6 +9205,28 @@
     "fiber": 3,
     "sugar": 0.59,
     "sodium": 190
+  },
+  "5686": {
+    "name": "Vegan Mac & Cheese",
+    "servingSize": "1 cup",
+    "calories": 560,
+    "protein": 15,
+    "carbs": 82,
+    "fat": 20,
+    "fiber": 6,
+    "sugar": 5,
+    "sodium": 560
+  },
+  "5696": {
+    "name": "Vegan Stuffed Mushrooms",
+    "servingSize": "1 Serving",
+    "calories": 60,
+    "protein": 3,
+    "carbs": 11,
+    "fat": 0.5,
+    "fiber": 1,
+    "sugar": 3,
+    "sodium": 350
   },
   "5699": {
     "name": "Turkey Sausage & Egg Pizza",
@@ -11329,6 +11461,17 @@
     "sugar": 3,
     "sodium": 970
   },
+  "6870": {
+    "name": "Maple-Roasted Squash",
+    "servingSize": "0.5 cup",
+    "calories": 80,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 3,
+    "fiber": 1,
+    "sugar": 6,
+    "sodium": 70
+  },
   "6872": {
     "name": "Mediterranean Pot Roast",
     "servingSize": "1 serving",
@@ -12197,6 +12340,17 @@
     "fiber": 0,
     "sugar": 2,
     "sodium": 180
+  },
+  "7280": {
+    "name": "Tossed Mixed Salad",
+    "servingSize": "3 oz",
+    "calories": 15,
+    "protein": 0,
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 1,
+    "sugar": 2,
+    "sodium": 5
   },
   "7283": {
     "name": "Peri Peri Tofu",
@@ -16246,6 +16400,28 @@
     "sugar": 3,
     "sodium": 360
   },
+  "8257": {
+    "name": "Savory Corn Pudding",
+    "servingSize": "1 serving",
+    "calories": 420,
+    "protein": 7,
+    "carbs": 29,
+    "fat": 31,
+    "fiber": 2,
+    "sugar": 6,
+    "sodium": 260
+  },
+  "8258": {
+    "name": "Cranberry-Apple Spinach Salad",
+    "servingSize": "0.5 cup",
+    "calories": 150,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 10,
+    "fiber": 2,
+    "sugar": 11,
+    "sodium": 60
+  },
   "8260": {
     "name": "Grilled Pineapple Salsa",
     "servingSize": "1 floz",
@@ -16256,6 +16432,50 @@
     "fiber": 0,
     "sugar": 4,
     "sodium": 10
+  },
+  "8261": {
+    "name": "Lemon Meringue Pie",
+    "servingSize": "1 serving",
+    "calories": 270,
+    "protein": 1,
+    "carbs": 48,
+    "fat": 8,
+    "fiber": 1,
+    "sugar": 31,
+    "sodium": 300
+  },
+  "8262": {
+    "name": "Blueberry Pie",
+    "servingSize": "1 serving",
+    "calories": 420,
+    "protein": 10,
+    "carbs": 62,
+    "fat": 16,
+    "fiber": 2,
+    "sugar": 17,
+    "sodium": 370
+  },
+  "8263": {
+    "name": "Peach Pie",
+    "servingSize": "1 serving",
+    "calories": 430,
+    "protein": 10,
+    "carbs": 64,
+    "fat": 16,
+    "fiber": 2,
+    "sugar": 18,
+    "sodium": 390
+  },
+  "8264": {
+    "name": "Cherry Pie",
+    "servingSize": "1 serving",
+    "calories": 420,
+    "protein": 10,
+    "carbs": 62,
+    "fat": 16,
+    "fiber": 2,
+    "sugar": 16,
+    "sodium": 370
   },
   "8265": {
     "name": "Raspberries",
