@@ -8799,6 +8799,17 @@
     "sugar": 4,
     "sodium": 115
   },
+  "5536": {
+    "name": "Crispy Chicken Sandwich",
+    "servingSize": "1 Serving",
+    "calories": 610,
+    "protein": 21,
+    "carbs": 46,
+    "fat": 37,
+    "fiber": 1,
+    "sugar": 1,
+    "sodium": 1470
+  },
   "5538": {
     "name": "Mushroom Tempura",
     "servingSize": "1 Serving",
@@ -11350,6 +11361,17 @@
     "fiber": 2,
     "sugar": 0.89,
     "sodium": 5
+  },
+  "6719": {
+    "name": "Green Peas",
+    "servingSize": "½ cup",
+    "calories": 70,
+    "protein": 4,
+    "carbs": 13,
+    "fat": 0,
+    "fiber": 4,
+    "sugar": 4,
+    "sodium": 95
   },
   "6720": {
     "name": "Jalapenos",
