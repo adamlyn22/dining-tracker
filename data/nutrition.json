@@ -1473,6 +1473,17 @@
     "sugar": 0,
     "sodium": 0
   },
+  "425": {
+    "name": "Char-Grilled Turkey Burger",
+    "servingSize": "1 each",
+    "calories": 390,
+    "protein": 23,
+    "carbs": 32,
+    "fat": 14,
+    "fiber": 1,
+    "sugar": 4,
+    "sodium": 620
+  },
   "427": {
     "name": "Classic Cheese Pizza",
     "servingSize": "1 each",
@@ -4905,6 +4916,17 @@
     "sugar": 0,
     "sodium": 470
   },
+  "2114": {
+    "name": "Pico de Gallo",
+    "servingSize": "2 Tbsp",
+    "calories": 5,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0.93,
+    "sodium": 50
+  },
   "2115": {
     "name": "Taco Beef Filling",
     "servingSize": "¼ cup",
@@ -6048,6 +6070,17 @@
     "fiber": 5,
     "sugar": 5,
     "sodium": 430
+  },
+  "2789": {
+    "name": "Browned Ground Beef",
+    "servingSize": "1 serving",
+    "calories": 350,
+    "protein": 23,
+    "carbs": 0,
+    "fat": 27,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 95
   },
   "2791": {
     "name": "Beef Taco",
@@ -8854,6 +8887,17 @@
     "sugar": 12,
     "sodium": 740
   },
+  "5545": {
+    "name": "Lettuce",
+    "servingSize": "1 oz",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0.93,
+    "fat": 0,
+    "fiber": 0.6,
+    "sugar": 0,
+    "sodium": 0
+  },
   "5550": {
     "name": "Sliced Cucumber",
     "servingSize": "1 serving",
@@ -11461,6 +11505,17 @@
     "sugar": 9,
     "sodium": 650
   },
+  "6802": {
+    "name": "Grilled Vegetable Pizza- New!",
+    "servingSize": "1 slice",
+    "calories": 360,
+    "protein": 16,
+    "carbs": 50,
+    "fat": 11,
+    "fiber": 3,
+    "sugar": 5,
+    "sodium": 880
+  },
   "6803": {
     "name": "Beef Goulash",
     "servingSize": "1 each",
@@ -12802,6 +12857,17 @@
     "fiber": 2,
     "sugar": 8,
     "sodium": 490
+  },
+  "7483": {
+    "name": "Apple Cinnamon Pancakes",
+    "servingSize": "2 pancakes",
+    "calories": 190,
+    "protein": 5,
+    "carbs": 33,
+    "fat": 5,
+    "fiber": 2,
+    "sugar": 12,
+    "sodium": 125
   },
   "7490": {
     "name": "Overnight Chia & Raisin Oats",
