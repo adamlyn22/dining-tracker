@@ -1253,6 +1253,17 @@
     "sugar": 2,
     "sodium": 35
   },
+  "366": {
+    "name": "Blanched Fresh Kale",
+    "servingSize": "½ cup",
+    "calories": 230,
+    "protein": 20,
+    "carbs": 26,
+    "fat": 7,
+    "fiber": 26,
+    "sugar": 7,
+    "sodium": 350
+  },
   "367": {
     "name": "Broccoli",
     "servingSize": "2 Tbsp",
@@ -2188,6 +2199,17 @@
     "sugar": 0,
     "sodium": 430
   },
+  "677": {
+    "name": "Old Fashioned Coleslaw",
+    "servingSize": "½ cup",
+    "calories": 150,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 14,
+    "fiber": 1,
+    "sugar": 4,
+    "sodium": 150
+  },
   "680": {
     "name": "Seasoned Roast Beef",
     "servingSize": "3 oz",
@@ -2363,6 +2385,17 @@
     "fiber": 2,
     "sugar": 0.93,
     "sodium": 135
+  },
+  "744": {
+    "name": "Whole Grain Penne Pasta Salad with Grilled Vegetables",
+    "servingSize": "4 oz",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 3,
+    "fiber": 3,
+    "sugar": 3,
+    "sodium": 100
   },
   "755": {
     "name": "Sliced Vermont Cheddar Cheese",
@@ -4377,6 +4410,17 @@
     "sugar": 5,
     "sodium": 40
   },
+  "1721": {
+    "name": "Caprese Salad",
+    "servingSize": "½ cup",
+    "calories": 140,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 10,
+    "fiber": 0.6,
+    "sugar": 0.57,
+    "sodium": 240
+  },
   "1775": {
     "name": "Kachumber Salad",
     "servingSize": "0.5 cup",
@@ -5146,6 +5190,17 @@
     "fiber": 5,
     "sugar": 4,
     "sodium": 160
+  },
+  "2276": {
+    "name": "Black Bean Hummus",
+    "servingSize": "0.5 cup",
+    "calories": 190,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 7,
+    "fiber": 6,
+    "sugar": 0.89,
+    "sodium": 220
   },
   "2280": {
     "name": "Orange Chicken",
@@ -6621,6 +6676,17 @@
     "sugar": 2,
     "sodium": 540
   },
+  "3364": {
+    "name": "Garlic Herb Rotisserie Chicken",
+    "servingSize": "1 piece",
+    "calories": 300,
+    "protein": 32,
+    "carbs": 2,
+    "fat": 17,
+    "fiber": 0,
+    "sugar": 0,
+    "sodium": 95
+  },
   "3369": {
     "name": "Lemon-Caper Couscous",
     "servingSize": "0.5 cup",
@@ -7027,6 +7093,17 @@
     "fiber": 1,
     "sugar": 7,
     "sodium": 120
+  },
+  "3711": {
+    "name": "Baba Ghonoush",
+    "servingSize": "0.5 cup",
+    "calories": 90,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 5,
+    "fiber": 5,
+    "sugar": 5,
+    "sodium": 290
   },
   "3713": {
     "name": "Pibb XTRA Soda",
@@ -7731,6 +7808,17 @@
     "fiber": 0,
     "sugar": 2,
     "sodium": 480
+  },
+  "4886": {
+    "name": "Spinach Feta Spread",
+    "servingSize": "2 Tbsp",
+    "calories": 200,
+    "protein": 5,
+    "carbs": 2,
+    "fat": 19,
+    "fiber": 0.69,
+    "sugar": 1,
+    "sodium": 330
   },
   "4935": {
     "name": "Vegan Ranch Dressing",
@@ -12319,6 +12407,17 @@
     "sugar": 36,
     "sodium": 0
   },
+  "7210": {
+    "name": "Zucchini & Yellow Squash Sautee",
+    "servingSize": "0.5 cup",
+    "calories": 70,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 65
+  },
   "7211": {
     "name": "Kale with Caramelized Onions",
     "servingSize": "0.5 cup",
@@ -12825,6 +12924,17 @@
     "sugar": 0,
     "sodium": 810
   },
+  "7433": {
+    "name": "Crinkle Cut French Fries",
+    "servingSize": "1 serving",
+    "calories": 170,
+    "protein": 1,
+    "carbs": 17,
+    "fat": 11,
+    "fiber": 1,
+    "sugar": 0.64,
+    "sodium": 30
+  },
   "7435": {
     "name": "Creamy Caesar Dressing",
     "servingSize": "1 oz",
@@ -13033,6 +13143,17 @@
     "fiber": 2,
     "sugar": 1,
     "sodium": 80
+  },
+  "7622": {
+    "name": "Fried Tofu",
+    "servingSize": "3 oz",
+    "calories": 180,
+    "protein": 12,
+    "carbs": 2,
+    "fat": 14,
+    "fiber": 2,
+    "sugar": 0,
+    "sodium": 10
   },
   "7640": {
     "name": "Beyond Burger",
@@ -13275,6 +13396,17 @@
     "fiber": 3,
     "sugar": 1,
     "sodium": 55
+  },
+  "7702": {
+    "name": "Vegetable & Black Bean Quinoa",
+    "servingSize": "1 serving",
+    "calories": 120,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 1,
+    "fiber": 4,
+    "sugar": 2,
+    "sodium": 45
   },
   "7703": {
     "name": "Roasted Fajita-Style Vegetables GU",
@@ -16652,5 +16784,27 @@
     "fiber": 0.75,
     "sugar": 24,
     "sodium": 220
+  },
+  "8268": {
+    "name": "Black Olive Tapenade",
+    "servingSize": "1 floz",
+    "calories": 60,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 6,
+    "fiber": 0.7,
+    "sugar": 0,
+    "sodium": 260
+  },
+  "8269": {
+    "name": "Everything Spice Dip",
+    "servingSize": "1 floz",
+    "calories": 110,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 11,
+    "fiber": 0,
+    "sugar": 0.95,
+    "sodium": 230
   }
 }
